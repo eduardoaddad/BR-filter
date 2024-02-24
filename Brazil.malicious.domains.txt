@@ -1,0 +1,65 @@
+! Title: BR-FILTER: Malicious websites
+! Description: Filter that blocks fake websites that are used to carry out scams.
+! Version: 1.5.0
+! TimeUpdated: 2024-24-02:16:36+00:00
+! Expires: 4 days (update frequency)
+! Homepage: https://github.com/eduardoaddad/BR-filter
+
+||agenciamots.com.ar^
+||galeriaprimordialwb.com^
+||host.secureserver.net^
+||run.app^ !Frequently used for websites to apply scams in Brazil.
+||run.app^ !Frequently used for websites to apply scams in Brazil.
+||in.ua^ !Frequently used for websites to apply scams in Brazil.
+||resgatebonusbetan.com^
+||cloudfunctions.net^
+||controlecall.com^
+||excellencemailer.net^
+||controlepetista.com^
+||w.valida-acesso.info^
+||940811.blob.core.windows.net^
+||notareaslipole.com^
+||redir-magal.com^
+||magazineluiza.com^
+||flafmssendms.dynv6.net^
+||profissional.ws^
+||bradesco-livelo.engenharia.ws^
+||resgatepontos.correio.biz^
+||tecnewspr.com^
+||engenharia.ws^
+||agropecuaria.ws^ !
+||navederesprotes.com^ 
+||*.shop^ !Frequently used for websites to apply scams in Brazil.
+||*.online^ !Frequently used for websites to apply scams in Brazil.
+||*.space^ !Frequently used for websites to apply scams in Brazil.
+||*.site^ !Frequently used for websites to apply scams in Brazil.
+||*.top^ !Frequently used for websites to apply scams in Brazil.
+||*.website^ !Frequently used for websites to apply scams in Brazil.
+||*.tech^ !Frequently used for websites to apply scams in Brazil.
+||*.fun^ !Frequently used for websites to apply scams in Brazil.
+||havan-9.finalizarcompra.com^ 
+||portalnoticiasbrasileiras.com^
+||lojahavambrazil.com^
+||loja-1-5.finalizarcompra.com^
+||pay.izzahome.com^
+||mercadodealsonline.com^
+||checkout.ativopay.com^
+||mlivredescontao.com^
+||finalizarcompra.com^
+||starlinkbrazilian.com^
+||lojahavambrasil.com^
+||pay.pagameentoseguro.com^
+||lojas-oficiaiis.com^
+||536803-0c.myshopify.com^
+||cupom-americanas.com^
+||perfectpay.com.br^
+||ofertasinfoprodutos.com^
+||mlivredescontao.com^
+||pagameentoseguro.com^
+||ofertasiimperdiveis.com^
+||portal-starlink.com^
+||lojaashavan.store^
+||ofertasegura.xyz^
+||central-starlink.com^
+||acordo-fevereiro.com^
+||gnoticia.com^
