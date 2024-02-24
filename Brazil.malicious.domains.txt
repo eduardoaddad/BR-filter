@@ -1,7 +1,7 @@
 ! Title: BR-FILTER: Malicious websites
 ! Description: Filter that blocks fake websites that are used to carry out scams.
-! Version: 1.5.0
-! TimeUpdated: 2024-24-02:16:36+00:00
+! Version: 1.5.1
+! TimeUpdated: 2024-24-02:16:44+00:00
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/eduardoaddad/BR-filter
 
@@ -63,3 +63,4 @@
 ||central-starlink.com^
 ||acordo-fevereiro.com^
 ||gnoticia.com^
+||programadepontoslive.myowndomain.name ! Bradesco (Livelo) Fake
