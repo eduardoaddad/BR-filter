@@ -67,3 +67,4 @@
 ||cupom-especial-de-hoje.com^ ! Americanas Fake
 ||cartilaressuplemento.com^
 ||consultasaldos.com^ !Gov.BR Fake
+||portalseguros.com^ ! Bradesco Fake
