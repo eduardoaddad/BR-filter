@@ -1,7 +1,7 @@
 ! Title: BR-FILTER: Malicious websites
 ! Description: Filter that blocks fake websites that are used to carry out scams.
-! Version: 1.5.3
-! TimeUpdated: 2024-24-02:17:02+00:00
+! Version: 1.5.4
+! TimeUpdated: 2024-24-02:22:40+00:00
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/eduardoaddad/BR-filter
 
@@ -67,4 +67,4 @@
 ||cupom-especial-de-hoje.com^ ! Americanas Fake
 ||cartilaressuplemento.com^
 ||consultasaldos.com^ !Gov.BR Fake
-||portalseguros.com^ ! Bradesco Fake
+||portalseguros.com^ !Bradesco Fake
