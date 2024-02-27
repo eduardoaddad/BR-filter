@@ -42,7 +42,7 @@ body:
   - type: input
     id: officialurl
     attributes:
-      label: Official Website
+      label: Official website
       description: Enter the web address.
       placeholder: ex. https://example.com/
     validations:
