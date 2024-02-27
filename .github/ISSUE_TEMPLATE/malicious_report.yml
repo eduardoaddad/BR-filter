@@ -33,12 +33,21 @@ body:
   - type: input
     id: url
     attributes:
-      label: What would the website be?
+      label: Malicious website
       description: Enter the web address.
       placeholder: ex. https://example.com/
     validations:
       required: true
 
+  - type: input
+    id: url
+    attributes:
+      label: Official Website
+      description: Enter the web address.
+      placeholder: ex. https://example.com/
+    validations:
+      required: true
+      
   - type: textarea
     id: comments
     attributes:
