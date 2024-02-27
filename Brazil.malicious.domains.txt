@@ -63,13 +63,13 @@
 ||central-starlink.com^
 ||acordo-fevereiro.com^
 ||gnoticia.com^
-||programadepontoslive.myowndomain.name^ ! Bradesco (Livelo) Fake
-||cupom-especial-de-hoje.com^ ! Americanas Fake
+||programadepontoslive.myowndomain.name^ !Bradesco (Livelo) Fake
+||cupom-especial-de-hoje.com^ !Americanas Fake
 ||cartilaressuplemento.com^
 ||consultasaldos.com^ !Gov.BR Fake
 ||portalseguros.com^ !Bradesco Fake
 ||erosionistovf.com^ !Amazon Fake
 ||alojadooutlet.com^ !Mercado Livre Fake
-||linkdepagamentos.com^ Mercado Pago Fake
+||linkdepagamentos.com^ !Mercado Pago Fake
 ||promophones.org^ !Polishop Fake
-||sistemaseguroo.com !Receita Federal Fake
+||sistemaseguroo.com^ !Receita Federal Fake
