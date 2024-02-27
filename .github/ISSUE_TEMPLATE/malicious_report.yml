@@ -1,0 +1,78 @@
+name: Malicious report
+description: Report an Malicious website.
+labels: ["Unsorted"]
+body:
+  - type: dropdown
+    id: browsers
+    attributes:
+      label: Which browser(s) do you use?
+      multiple: true
+      options:
+        - Firefox
+        - Chrome
+        - Safari
+        - Microsoft Edge
+        - Opera
+        - Yandex Browser
+        - other (specify in comment below)
+        - the problem is with app, not a site
+    validations:
+      required: true
+
+  - type: dropdown
+    id: browsers_type
+    attributes:
+      label: Which device do you use?
+      multiple: false
+      options:
+        - Desktop
+        - Mobile
+    validations:
+      required: true
+
+  - type: input
+    id: url
+    attributes:
+      label: Website:
+      description: Enter the web address.
+      placeholder: ex. https://example.com/
+    validations:
+      required: true
+
+  - type: textarea
+    id: comments
+    attributes:
+      label: Add your comment and screenshots
+      description: |
+        1. Add screenshots of the problem. You can drag and drop images or paste them from clipboard;
+          Use `<details> </details>` tag to hide screenshots under the spoiler;
+        2. Describe the issue extensively unless it is absolutely clear from the screenshot what the problem is;
+        You can also indicate any other information that you think the developers should know.
+
+        Warning: Please remove personal information before uploading screenshots!
+      value: |
+          1. <comment>
+
+          2. Screenshots
+          <details><summary>Screenshot 1:</summary>
+
+          <!-- paste screenshot here -->
+
+          </details>
+
+          <details><summary>Screenshot N:</summary>
+
+          <!-- paste screenshot here -->
+
+          </details>
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Privacy
+      description: By submitting this issue, you agree that report does not contain private info
+      options:
+        - label: I agree to follow this condition
+          required: true
