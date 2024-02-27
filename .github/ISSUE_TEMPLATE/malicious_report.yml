@@ -40,7 +40,7 @@ body:
       required: true
 
   - type: input
-    id: url
+    id: officialurl
     attributes:
       label: Official Website
       description: Enter the web address.
