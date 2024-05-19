@@ -73,3 +73,7 @@
 ||linkdepagamentos.com^ !Mercado Pago Fake
 ||promophones.org^ !Polishop Fake
 ||sistemaseguroo.com^ !Receita Federal Fake
+||starlinkofertasonline.com^ !Starlink Fake
+||brasil-starnet.store^ !Starlink Fake
+||starlink-vitalicio.com^ !Starlink Fake
+||sinalondeestiver.com^ !Starlink Fake
