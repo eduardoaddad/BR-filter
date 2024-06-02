@@ -60,6 +60,7 @@
 ||linkdepagamentos.com^
 ||mlivredescontao.com^
 ||mercadodealsonline.com^
+||promolivremerc.com^
 # Bradesco/Livelo
 ||portalseguros.com^
 ||programadepontoslive.myowndomain.name^
@@ -93,5 +94,9 @@
 ||pagameentoseguro.com^
 ||finalizarcompra.com^
 ||pay.pagameentoseguro.com^
+||pay.ls2helmets.live^
+||efetuarpagamento.com^
 # Cavalo de Troia/Trojan horse
 ||*.cursosfirehelp.com.br^
+#Rolex
+||guia-oficial.com^
