@@ -6,9 +6,6 @@
 ! Homepage: https://github.com/eduardoaddad/BR-filter
 
 ||host.secureserver.net^
-||run.app^ !Frequently used for websites to apply scams in Brazil.
-||run.app^ !Frequently used for websites to apply scams in Brazil.
-||in.ua^ !Frequently used for websites to apply scams in Brazil.
 ||resgatebonusbetan.com^
 ||cloudfunctions.net^
 ||controlecall.com^
@@ -21,7 +18,7 @@
 ||profissional.ws^
 ||tecnewspr.com^
 ||engenharia.ws^
-||agropecuaria.ws^ !
+||agropecuaria.ws^
 ||navederesprotes.com^ 
 # Frequently used for websites to apply scams in Brazil.
 ||*.shop^ 
@@ -32,6 +29,9 @@
 ||*.website^ 
 ||*.tech^ 
 ||*.fun^ 
+||run.app^ 
+||run.app^ 
+||in.ua^ 
 ||mlivredescontao.com^
 ||lojas-oficiaiis.com^
 ||536803-0c.myshopify.com^
@@ -93,5 +93,5 @@
 ||pagameentoseguro.com^
 ||finalizarcompra.com^
 ||pay.pagameentoseguro.com^
-# Cavalo de Troia
+# Cavalo de Troia/Trojan horse
 ||*.cursosfirehelp.com.br^
