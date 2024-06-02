@@ -5,21 +5,6 @@
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/eduardoaddad/BR-filter
 
-||host.secureserver.net^
-||resgatebonusbetan.com^
-||cloudfunctions.net^
-||controlecall.com^
-||excellencemailer.net^
-||controlepetista.com^
-||w.valida-acesso.info^
-||940811.blob.core.windows.net^
-||notareaslipole.com^
-||flafmssendms.dynv6.net^
-||profissional.ws^
-||tecnewspr.com^
-||engenharia.ws^
-||agropecuaria.ws^
-||navederesprotes.com^ 
 # Frequently used for websites to apply scams in Brazil.
 ||*.shop^ 
 ||*.online^ 
@@ -39,6 +24,21 @@
 ||ofertasiimperdiveis.com^
 ||ofertasegura.xyz^
 ||cartilaressuplemento.com^
+||host.secureserver.net^
+||resgatebonusbetan.com^
+||cloudfunctions.net^
+||controlecall.com^
+||excellencemailer.net^
+||controlepetista.com^
+||w.valida-acesso.info^
+||940811.blob.core.windows.net^
+||notareaslipole.com^
+||flafmssendms.dynv6.net^
+||profissional.ws^
+||tecnewspr.com^
+||engenharia.ws^
+||agropecuaria.ws^
+||navederesprotes.com^ 
 # Prime Video/Amazon
 ||pay.prime-oferta.com^
 ||erosionistovf.com^
