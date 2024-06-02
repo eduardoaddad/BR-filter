@@ -77,3 +77,5 @@
 ||brasil-starnet.store^ !Starlink Fake
 ||starlink-vitalicio.com^ !Starlink Fake
 ||sinalondeestiver.com^ !Starlink Fake
+||pay.prime-oferta.com^ !Prime Video Fake
+||primeplano-online.com^ !Prime Video Fake
