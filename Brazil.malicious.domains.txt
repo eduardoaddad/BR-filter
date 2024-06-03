@@ -7,7 +7,7 @@
 
 # Frequently used for websites to apply scams in Brazil.
 ||*.shop^ 
-||*.online^$denyallow=unicred1538.assembleias.online
+||*.online
 ||*.space^$denyallow=frisk.space
 ||*.site^$denyallow=weirdgloop.notion.site
 ||*.top^ 
@@ -106,3 +106,5 @@
 ||guia-oficial.com^
 # other 
 ||alohomoraloja.com^
+# Allow
+@@||unicred1538.assembleias.online^
