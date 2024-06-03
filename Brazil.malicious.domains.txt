@@ -74,9 +74,11 @@
 ||galeriaprimordialwb.com^
 # Gov.BR
 ||consultasaldos.com^
+||portalacesso-resgate.com^
 # Americanas
 ||cupom-especial-de-hoje.com^
 ||cupom-americanas.com^
+||canaldigitalamericanapp.com^
 # Serasa
 ||acordo-fevereiro.com^
 ||serasa-av.vercel.app^
