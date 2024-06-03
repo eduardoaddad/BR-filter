@@ -7,9 +7,9 @@
 
 # Frequently used for websites to apply scams in Brazil.
 ||*.shop^ 
-||*.online^ 
-||*.space^
-||*.site^ 
+||*.online^$denyallow=unicred1538.assembleias.online
+||*.space^$denyallow=frisk.space
+||*.site^$denyallow=weirdgloop.notion.site
 ||*.top^ 
 ||*.website^ 
 ||*.tech^ 
