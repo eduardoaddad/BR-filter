@@ -65,6 +65,7 @@
 ||ofertamlshop.vercel.app^
 ||ofertasmlivreshop.com.br^
 ||fecino.cloud^
+||elite8188.atomicatpages.com^
 # Bradesco/Livelo
 ||portalseguros.com^
 ||programadepontoslive.myowndomain.name^
