@@ -43,6 +43,7 @@
 ||pay.prime-oferta.com^
 ||erosionistovf.com^
 ||primeplano-online.com^
+||Lojas-prime.com^
 # Starlink
 ||starlinkofertasonline.com^
 ||brasil-starnet.store^
@@ -61,6 +62,7 @@
 ||mlivredescontao.com^
 ||mercadodealsonline.com^
 ||promolivremerc.com^
+||mlivredescontossemanal.com^
 # Bradesco/Livelo
 ||portalseguros.com^
 ||programadepontoslive.myowndomain.name^
@@ -75,6 +77,7 @@
 ||cupom-americanas.com^
 # Serasa
 ||acordo-fevereiro.com^
+||serasa-av.vercel.app^
 # G1
 ||gnoticia.com^
 ||portalnoticiasbrasileiras.com^
@@ -98,5 +101,7 @@
 ||efetuarpagamento.com^
 # Cavalo de Troia/Trojan horse
 ||*.cursosfirehelp.com.br^
-#Rolex
+# Rolex
 ||guia-oficial.com^
+# other 
+||alohomoraloja.com^
