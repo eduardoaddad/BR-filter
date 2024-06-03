@@ -105,6 +105,8 @@
 ||*.cursosfirehelp.com.br^
 # Rolex
 ||guia-oficial.com^
+# Shoppe
+||*chktseguro.com^
 # other 
 ||alohomoraloja.com^
 # Allow
