@@ -64,6 +64,7 @@
 ||mlivredescontossemanal.com^
 ||ofertamlshop.vercel.app^
 ||ofertasmlivreshop.com.br^
+||fecino.cloud^
 # Bradesco/Livelo
 ||portalseguros.com^
 ||programadepontoslive.myowndomain.name^
