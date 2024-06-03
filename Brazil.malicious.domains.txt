@@ -66,6 +66,7 @@
 ||ofertasmlivreshop.com.br^
 ||fecino.cloud^
 ||elite8188.atomicatpages.com^
+||ab8fb0-06.myshopify.com^
 # Bradesco/Livelo
 ||portalseguros.com^
 ||programadepontoslive.myowndomain.name^
@@ -110,7 +111,10 @@
 ||guia-oficial.com^
 # Shoppe
 ||*chktseguro.com^
-# other 
+# Casas Bahia
+# ofertacasabahiaapp.com^
+# Other 
 ||alohomoraloja.com^
+||caps.sb2turbo.com^
 # Allow
 @@||unicred1538.assembleias.online^
