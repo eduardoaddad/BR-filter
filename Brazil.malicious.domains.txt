@@ -15,7 +15,6 @@
 ||*.tech^ 
 ||*.fun^ 
 ||run.app^ 
-||run.app^ 
 ||in.ua^ 
 ||mlivredescontao.com^
 ||lojas-oficiaiis.com^
@@ -63,6 +62,8 @@
 ||mercadodealsonline.com^
 ||promolivremerc.com^
 ||mlivredescontossemanal.com^
+||ofertamlshop.vercel.app^
+||ofertasmlivreshop.com.br^
 # Bradesco/Livelo
 ||portalseguros.com^
 ||programadepontoslive.myowndomain.name^
