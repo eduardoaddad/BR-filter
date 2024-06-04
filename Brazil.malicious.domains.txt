@@ -81,6 +81,7 @@
 ||cupom-especial-de-hoje.com^
 ||cupom-americanas.com^
 ||canaldigitalamericanapp.com^
+||hotm.art^
 # Serasa
 ||acordo-fevereiro.com^
 ||serasa-av.vercel.app^
