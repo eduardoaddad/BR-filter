@@ -1,7 +1,7 @@
 ! Title: BR-FILTER: Malicious websites
 ! Description: Filter that blocks fake websites that are used to carry out scams.
-! Version: 1.5.7
-! TimeUpdated: 2024-04-06:02:00+00:00
+! Version: 1.5.8
+! TimeUpdated: 2024-05-06:02:00+00:00
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/eduardoaddad/BR-filter
 
@@ -67,6 +67,7 @@
 ||mlivredescontossemanal.com^
 ||ofertamlshop.vercel.app^
 ||ofertasmlivreshop.com.br^
+||https://appmercadolivr.com^
 ||fecino.cloud^
 ||elite8188.atomicatpages.com^
 ||ab8fb0-06.myshopify.com^
@@ -122,12 +123,17 @@
 # Latam
 ||promo-latam2024.com^
 ||latamlinhasaerea.com^
+||https://voejalatam.com^
 # Tesla
 ||teslaoficial.co.in^
 # Netshoes
 ||promocoesnanet.myshopify.com^
 # Olympikus
 ||compre-olympikus.com^
+# Decolar
+||decolar.promoaerea.com^
+# Rock in Rio
+||ticketsmaster.github.io^
 # Other 
 ||alohomoraloja.com^
 ||caps.sb2turbo.com^
@@ -135,5 +141,6 @@
 ||perfumes-brasil.com^
 ||virtualsuccess.com.br^
 ||lacamento.com^
+||emporioiphone.com.br^
 # Allow
 @@||unicred1538.assembleias.online^
