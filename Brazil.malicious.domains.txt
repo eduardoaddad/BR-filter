@@ -100,7 +100,6 @@
 ||redir-magal.com^
 ||magazineluiza.com^
 # Pagamentos
-||perfectpay.com.br^
 ||loja-1-5.finalizarcompra.com^
 ||pay.izzahome.com^
 ||checkout.ativopay.com^
@@ -121,8 +120,11 @@
 ||https://brooksfiielld.myshopify.com^
 # Latam
 ||promo-latam2024.com^
+||latamlinhasaerea.com^
 # Tesla
 ||teslaoficial.co.in^
+# Netshoes
+||promocoesnanet.myshopify.com^
 # Other 
 ||alohomoraloja.com^
 ||caps.sb2turbo.com^
