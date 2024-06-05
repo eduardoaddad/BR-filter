@@ -116,6 +116,7 @@
 ||*chktseguro.com^
 # Casas Bahia
 # ofertacasabahiaapp.com^
+||bahia-dia-das-maes.com^
 # Brooksfiielld
 ||https://brooksfiielld.myshopify.com^
 # Latam
@@ -125,10 +126,14 @@
 ||teslaoficial.co.in^
 # Netshoes
 ||promocoesnanet.myshopify.com^
+# Olympikus
+||compre-olympikus.com^
 # Other 
 ||alohomoraloja.com^
 ||caps.sb2turbo.com^
 ||shoes-brasil.com^
 ||perfumes-brasil.com^
+||virtualsuccess.com.br^
+||lacamento.com^
 # Allow
 @@||unicred1538.assembleias.online^
