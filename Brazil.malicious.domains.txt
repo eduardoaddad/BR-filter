@@ -1,7 +1,7 @@
 ! Title: BR-FILTER: Malicious websites
 ! Description: Filter that blocks fake websites that are used to carry out scams.
-! Version: 1.5.9
-! TimeUpdated: 2024-20-06:02:00+00:00
+! Version: 1.5.10
+! TimeUpdated: 2024-23-06:02:00+00:00
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/eduardoaddad/BR-filter
 
@@ -71,6 +71,9 @@
 ||fecino.cloud^
 ||elite8188.atomicatpages.com^
 ||ab8fb0-06.myshopify.com^
+||mercadolivre-aniversario.myshopify.com^
+||consulta-rapida.me^
+||ev.universidademarketplaces.com.br^
 # Bradesco/Livelo
 ||portalseguros.com^
 ||programadepontoslive.myowndomain.name^
@@ -81,6 +84,7 @@
 # Gov.BR
 ||consultasaldos.com^
 ||portalacesso-resgate.com^
+||restituirvalores.com^
 # Americanas
 ||cupom-especial-de-hoje.com^
 ||cupom-americanas.com^
