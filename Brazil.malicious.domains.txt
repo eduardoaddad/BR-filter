@@ -144,7 +144,8 @@
 ||ticketsmaster.github.io^
 # Netflix
 ||assinaturapremiada.com^
-
+# Play Store
+||vector-king.rest^
 # Other 
 ||alohomoraloja.com^
 ||caps.sb2turbo.com^
