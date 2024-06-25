@@ -146,6 +146,8 @@
 ||assinaturapremiada.com^
 # Play Store
 ||vector-king.rest^
+# Microsoft
+||surfacepro-oferta.com^
 # Other 
 ||alohomoraloja.com^
 ||caps.sb2turbo.com^
