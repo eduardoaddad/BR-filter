@@ -142,7 +142,8 @@
 # Rock in Rio
 ||ticketsmaster.github.io^
 # Netflix
-||https://assinaturapremiada.com^
+||assinaturapremiada.com^
+
 # Other 
 ||alohomoraloja.com^
 ||caps.sb2turbo.com^
