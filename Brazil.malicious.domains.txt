@@ -1,7 +1,7 @@
 ! Title: BR-FILTER: Malicious websites
 ! Description: Filter that blocks fake websites that are used to carry out scams.
-! Version: 1.5.10
-! TimeUpdated: 2024-23-06:02:00+00:00
+! Version: 1.5.11
+! TimeUpdated: 2024-24-06:02:00+00:00
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/eduardoaddad/BR-filter
 
@@ -125,6 +125,7 @@
 # Brooksfiielld
 ||brooksfiielld.myshopify.com^
 ||brooksfieldshopingg.myshopify.com^
+||brooksfieldsbhshoping.myshopify.com^
 # Latam
 ||promo-latam2024.com^
 ||latamlinhasaerea.com^
@@ -140,6 +141,8 @@
 ||decolar.promoaerea.com^
 # Rock in Rio
 ||ticketsmaster.github.io^
+# Netflix
+||https://assinaturapremiada.com^
 # Other 
 ||alohomoraloja.com^
 ||caps.sb2turbo.com^
