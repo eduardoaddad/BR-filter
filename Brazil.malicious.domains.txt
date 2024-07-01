@@ -89,6 +89,7 @@
 ||consultasaldos.com^
 ||portalacesso-resgate.com^
 ||restituirvalores.com^
+||indenizarapido.com^
 # Americanas
 ||cupom-especial-de-hoje.com^
 ||cupom-americanas.com^
@@ -99,6 +100,7 @@
 ||acordo-fevereiro.com^
 ||serasa-av.vercel.app^
 ||indenizeme.com^
+||recuperafacil.org^
 # G1
 ||gnoticia.com^
 ||portalnoticiasbrasileiras.com^
