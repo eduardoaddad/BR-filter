@@ -1,7 +1,7 @@
 ! Title: BR-FILTER: Malicious websites
 ! Description: Filter that blocks fake websites that are used to carry out scams.
-! Version: 1.5.14
-! TimeUpdated: 2024-30-07:02:00+00:00
+! Version: 1.5.15
+! TimeUpdated: 2024-30-07:03:00+00:00
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/eduardoaddad/BR-filter
 
@@ -11,7 +11,7 @@
 ||*.space^$denyallow=frisk.space
 ||*.site^$denyallow=weirdgloop.notion.site
 ||*.top^ 
-||*.website^ 
+||*.website^$denyallow=loritta.website
 ||*.tech^ 
 ||*.fun^ 
 ||run.app^ 
@@ -78,6 +78,7 @@
 ||quizdoconsumidor.netlify.app^
 ||mlivredescontao.com^
 ||mercadolivre-aniversario-promo.myshopify.com^
+||mercadolivre-promo.info^
 # Bradesco/Livelo
 ||portalseguros.com^
 ||programadepontoslive.myowndomain.name^
@@ -156,6 +157,9 @@
 ||vector-king.rest^
 # Microsoft
 ||surfacepro-oferta.com^
+# Burger King
+|| verdadesegura.com^
+||bkstanley.store^
 # Other 
 ||alohomoraloja.com^
 ||caps.sb2turbo.com^
@@ -165,4 +169,5 @@
 ||lacamento.com^
 ||emporioiphone.com.br^
 ||tradarinews.com^
+# Liberados
 @@||unicred1538.assembleias.online^
