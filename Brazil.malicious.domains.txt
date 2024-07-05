@@ -1,7 +1,7 @@
 ! Title: BR-FILTER: Malicious websites
 ! Description: Filter that blocks fake websites that are used to carry out scams.
-! Version: 1.5.15
-! TimeUpdated: 2024-30-07:03:00+00:00
+! Version: 1.5.16
+! TimeUpdated: 2024-30-07:05:00+00:00
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/eduardoaddad/BR-filter
 
@@ -47,6 +47,8 @@
 ||prime-alexa.com^
 ||aprime.store^
 ||ofertaprime.vercel.app^
+||planoprime.click^
+||promoamazon.com.br^
 # Starlink
 ||starlinkofertasonline.com^
 ||brasil-starnet.store^
@@ -79,6 +81,7 @@
 ||mlivredescontao.com^
 ||mercadolivre-aniversario-promo.myshopify.com^
 ||mercadolivre-promo.info^
+||mercadolivre-beneficente.myshopify.com^
 # Bradesco/Livelo
 ||portalseguros.com^
 ||programadepontoslive.myowndomain.name^
@@ -141,6 +144,7 @@
 ||https://voejalatam.com^
 ||voospromocionaiis.com^
 ||airlines-brasil.com^
+||voosemoffertas.com^
 # Tesla
 ||teslaoficial.co.in^
 # Netshoes
@@ -160,6 +164,7 @@
 # Burger King
 || verdadesegura.com^
 ||bkstanley.store^
+||bkpagstore.web.app^
 # Other 
 ||alohomoraloja.com^
 ||caps.sb2turbo.com^
