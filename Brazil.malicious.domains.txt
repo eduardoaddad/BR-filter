@@ -1,7 +1,7 @@
 ! Title: BR-FILTER: Malicious websites
 ! Description: Filter that blocks fake websites that are used to carry out scams.
-! Version: 1.5.16
-! TimeUpdated: 2024-30-07:05:00+00:00
+! Version: 1.5.17
+! TimeUpdated: 2024-30-07:06:00+00:00
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/eduardoaddad/BR-filter
 
@@ -49,6 +49,7 @@
 ||ofertaprime.vercel.app^
 ||planoprime.click^
 ||promoamazon.com.br^
+||primeday.click^
 # Starlink
 ||starlinkofertasonline.com^
 ||brasil-starnet.store^
@@ -82,6 +83,9 @@
 ||mercadolivre-aniversario-promo.myshopify.com^
 ||mercadolivre-promo.info^
 ||mercadolivre-beneficente.myshopify.com^
+||ml-anivarsario.myshopify.com^
+||superofertaml.com^
+||resgateofertasoficial.com^
 # Bradesco/Livelo
 ||portalseguros.com^
 ||programadepontoslive.myowndomain.name^
@@ -108,11 +112,13 @@
 # G1
 ||gnoticia.com^
 ||portalnoticiasbrasileiras.com^
+||g1.globonews.lol^
 # Havan
 ||lojahavambrasil.com^
 ||lojaashavan.store^
 ||lojahavambrazil.com^
 ||havan-9.finalizarcompra.com^ 
+||resgate.lucre-com-notas.com^
 # Magazine Luiza
 ||redir-magal.com^
 ||magazineluiza.com^
@@ -165,6 +171,11 @@
 || verdadesegura.com^
 ||bkstanley.store^
 ||bkpagstore.web.app^
+||burguerking.pesquisa-ganhe.com^
+# Correios
+||meucorreios.org^
+# Mundial
+||ofertamondial.com^
 # Other 
 ||alohomoraloja.com^
 ||caps.sb2turbo.com^
