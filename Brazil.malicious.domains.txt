@@ -119,9 +119,11 @@
 ||lojahavambrazil.com^
 ||havan-9.finalizarcompra.com^ 
 ||resgate.lucre-com-notas.com^
+||web-site-oficial.net^
 # Magazine Luiza
 ||redir-magal.com^
 ||magazineluiza.com^
+||magalupayment.com^
 # Pagamentos
 ||loja-1-5.finalizarcompra.com^
 ||pay.izzahome.com^
