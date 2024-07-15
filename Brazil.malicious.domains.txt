@@ -1,7 +1,7 @@
 ! Title: BR-FILTER: Malicious websites
 ! Description: Filter that blocks fake websites that are used to carry out scams.
-! Version: 1.5.18
-! TimeUpdated: 2024-30-07:09:00+00:00
+! Version: 1.5.19
+! TimeUpdated: 2024-15-07:09:00+00:00
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/eduardoaddad/BR-filter
 
@@ -50,6 +50,7 @@
 ||planoprime.click^
 ||promoamazon.com.br^
 ||primeday.click^
+||lojaruedasoficial.com^
 # Starlink
 ||starlinkofertasonline.com^
 ||brasil-starnet.store^
@@ -58,6 +59,7 @@
 ||central-starlink.com^
 ||portal-starlink.com^
 ||starlinkbrazilian.com^
+||bitelectronics.com.br^
 # Receita Federal
 ||sistemaseguroo.com^
 # Polishop
@@ -86,6 +88,7 @@
 ||ml-anivarsario.myshopify.com^
 ||superofertaml.com^
 ||resgateofertasoficial.com^
+||shopmercado.store^
 # Bradesco/Livelo
 ||portalseguros.com^
 ||programadepontoslive.myowndomain.name^
@@ -175,6 +178,8 @@
 ||bkstanley.store^
 ||bkpagstore.web.app^
 ||burguerking.pesquisa-ganhe.com^
+||responda-burger.online^
+||burgerking.pesquisasgeral.com^
 # Correios
 ||meucorreios.org^
 # Mundial
