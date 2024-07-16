@@ -189,6 +189,8 @@
 ||meucorreios.org^
 # Mundial
 ||ofertamondial.com^
+# Vasco Boutique
+||https://vascostorefc.com^
 # Other 
 ||alohomoraloja.com^
 ||caps.sb2turbo.com^
