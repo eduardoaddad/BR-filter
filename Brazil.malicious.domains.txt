@@ -90,7 +90,6 @@
 ||superofertaml.com^
 ||resgateofertasoficial.com^
 ||shopmercado.store^
-||aniversario-mercodolivre.shop^
 ||mercadolivre-brasil.store^
 # Bradesco/Livelo
 ||portalseguros.com^
