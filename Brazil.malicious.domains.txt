@@ -74,7 +74,7 @@
 ||mlivredescontossemanal.com^
 ||ofertamlshop.vercel.app^
 ||ofertasmlivreshop.com.br^
-||https://appmercadolivr.com^
+||appmercadolivr.com^
 ||fecino.cloud^
 ||elite8188.atomicatpages.com^
 ||ab8fb0-06.myshopify.com^
