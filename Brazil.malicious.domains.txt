@@ -205,6 +205,8 @@
 ||resgate-boxes.com^
 # Farm
 ||receber-express.com^
+# Nescafé
+||quizzpremiado.store^
 # Other 
 ||alohomoraloja.com^
 ||caps.sb2turbo.com^
