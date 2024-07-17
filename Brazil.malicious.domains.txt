@@ -61,6 +61,7 @@
 ||portal-starlink.com^
 ||starlinkbrazilian.com^
 ||bitelectronics.com.br^
+||starlinkbrasil.co.in^
 # Receita Federal
 ||sistemaseguroo.com^
 # Polishop
