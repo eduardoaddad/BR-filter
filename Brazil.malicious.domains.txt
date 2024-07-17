@@ -136,6 +136,7 @@
 ||magazineluiza.com^
 ||magalupayment.com^
 ||luizaclube.com^
+||magazine-luiza-br.com^
 # Pagamentos
 ||loja-1-5.finalizarcompra.com^
 ||pay.izzahome.com^
