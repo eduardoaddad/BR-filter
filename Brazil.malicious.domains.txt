@@ -94,6 +94,8 @@
 ||quizconsumidorml.netlify.app^
 ||https://mercado-livreofertass.com^
 ||mercados-livrebr.com^
+||shop.fraga-ofertas.com^
+||aniversario25anosml.store^
 # Bradesco/Livelo
 ||portalseguros.com^
 ||programadepontoslive.myowndomain.name^
