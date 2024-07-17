@@ -218,5 +218,6 @@
 ||lacamento.com^
 ||emporioiphone.com.br^
 ||tradarinews.com^
+||kasamaster.com^
 # Liberados
 @@||unicred1538.assembleias.online^
