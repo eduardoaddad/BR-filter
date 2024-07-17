@@ -203,6 +203,8 @@
 ||bossoutlet.store^
 # AliExpress
 ||resgate-boxes.com^
+# Farm
+||receber-express.com^
 # Other 
 ||alohomoraloja.com^
 ||caps.sb2turbo.com^
