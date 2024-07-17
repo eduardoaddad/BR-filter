@@ -200,6 +200,7 @@
 ||carrospcd.com.br^
 # Pag Seguro
 ||asuamaquininha.com.br^
+||ofertasdemaquininhas.com.br^
 # Hugo Boss
 ||bossoutlet.store^
 # AliExpress
