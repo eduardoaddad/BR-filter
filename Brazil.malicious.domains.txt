@@ -210,6 +210,7 @@
 ||burgerking.pesquisasgeral.com^
 # Correios
 ||meucorreios.org^
+||ofertasbrasil.blog^
 # Mundial
 ||ofertamondial.com^
 # Vasco Boutique
