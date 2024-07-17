@@ -92,10 +92,14 @@
 ||shopmercado.store^
 ||mercadolivre-brasil.store^
 ||quizconsumidorml.netlify.app^
-||https://mercado-livreofertass.com^
+||mercado-livreofertass.com^
 ||mercados-livrebr.com^
 ||shop.fraga-ofertas.com^
 ||aniversario25anosml.store^
+||mercadoevento.com^
+||mercaadolivrre.com^
+||quiz-2024ml.com^
+||quiz-do-mercadolivre.store^
 ||mercadoevento.com^
 # Bradesco/Livelo
 ||portalseguros.com^
