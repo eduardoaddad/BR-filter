@@ -201,6 +201,8 @@
 ||asuamaquininha.com.br^
 # Hugo Boss
 ||bossoutlet.store^
+# AliExpress
+||resgate-boxes.com^
 # Other 
 ||alohomoraloja.com^
 ||caps.sb2turbo.com^
