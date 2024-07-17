@@ -101,6 +101,11 @@
 ||quiz-2024ml.com^
 ||quiz-do-mercadolivre.store^
 ||mercadoevento.com^
+||economialivre.com.br^
+||samsung-25-anos-ml.myshopify.com^
+||mercadoshopmax.com^
+||mercadolivre.comprablindada.click^
+||appmercadolivr.com^
 # Bradesco/Livelo
 ||portalseguros.com^
 ||programadepontoslive.myowndomain.name^
