@@ -191,6 +191,8 @@
 ||ofertamondial.com^
 # Vasco Boutique
 ||https://vascostorefc.com^
+# Lacoste
+||ultimodiaofertalala.store^
 # Other 
 ||alohomoraloja.com^
 ||caps.sb2turbo.com^
