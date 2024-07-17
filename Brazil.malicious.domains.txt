@@ -195,6 +195,8 @@
 ||ultimodiaofertalala.store^
 # Polícia Rodoviária Federal
 ||carrospcd.com.br^
+# Pag Seguro
+||asuamaquininha.com.br^
 # Other 
 ||alohomoraloja.com^
 ||caps.sb2turbo.com^
