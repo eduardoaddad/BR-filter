@@ -96,6 +96,7 @@
 ||mercados-livrebr.com^
 ||shop.fraga-ofertas.com^
 ||aniversario25anosml.store^
+||mercadoevento.com^
 # Bradesco/Livelo
 ||portalseguros.com^
 ||programadepontoslive.myowndomain.name^
