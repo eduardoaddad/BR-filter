@@ -199,6 +199,7 @@
 ||lacoste.outlett.pro^
 # Polícia Rodoviária Federal
 ||carrospcd.com.br^
+||guiaauto.com.br^
 # Pag Seguro
 ||asuamaquininha.com.br^
 ||ofertasdemaquininhas.com.br^
