@@ -114,12 +114,16 @@
 ||hotm.art^
 ||exclusivodahora.com^
 ||oficiallojamais.com^
+||ofertasfeiras.com^
+||web-de-cupom-de-desconto-hoje.com^
+||ofertadodia-precosexclusivos.com^
 # Serasa
 ||acordo-fevereiro.com^
 ||serasa-av.vercel.app^
 ||indenizeme.com^
 ||recuperafacil.org^
 ||indeniza.net^
+||consultasrs.com^
 # G1
 ||gnoticia.com^
 ||portalnoticiasbrasileiras.com^
