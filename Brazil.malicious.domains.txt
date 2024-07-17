@@ -93,6 +93,7 @@
 ||mercadolivre-brasil.store^
 ||quizconsumidorml.netlify.app^
 ||https://mercado-livreofertass.com^
+||mercados-livrebr.com^
 # Bradesco/Livelo
 ||portalseguros.com^
 ||programadepontoslive.myowndomain.name^
