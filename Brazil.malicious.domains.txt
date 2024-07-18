@@ -182,6 +182,7 @@
 ! Casas Bahia
 ! ofertacasabahiaapp.com^
 ||bahia-dia-das-maes.com^
+||megapromocb.lat^
 ||dicassemanal.com^
 ! Brooksfield
 ||brooksfiielld.myshopify.com^
