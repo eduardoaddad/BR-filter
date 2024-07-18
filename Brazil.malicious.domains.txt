@@ -241,6 +241,8 @@
 ||receber-express.com^
 # Nescafé
 ||quizzpremiado.store^
+# Shoptime
+||promoshoptime.com^
 # Other 
 ||alohomoraloja.com^
 ||caps.sb2turbo.com^
