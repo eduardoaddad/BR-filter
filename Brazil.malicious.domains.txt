@@ -131,6 +131,7 @@
 ||cupom-especial-de-hoje.com^
 ||cupom-americanas.com^
 ||canaldigitalamericanapp.com^
+||ofertadasemana-precosexclusivos.com^
 ||hotm.art^
 ||exclusivodahora.com^
 ||oficiallojamais.com^
@@ -180,7 +181,7 @@
 # Casas Bahia
 # ofertacasabahiaapp.com^
 ||bahia-dia-das-maes.com^
-# Brooksfiielld
+# Brooksfield
 ||brooksfiielld.myshopify.com^
 ||brooksfieldshopingg.myshopify.com^
 ||brooksfieldsbhshoping.myshopify.com^
