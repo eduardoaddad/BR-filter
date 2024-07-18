@@ -239,6 +239,7 @@
 ||asuamaquininha.com.br^
 ||ofertasdemaquininhas.com.br^
 ||ofertademaquininha.com.br^
+||maquininhadesconto.com.br^
 ! Hugo Boss
 ||bossoutlet.store^
 ||bossoutletbrasil.myshopify.com^
