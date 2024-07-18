@@ -5,7 +5,7 @@
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/eduardoaddad/BR-filter
 
-# Frequently used for websites to apply scams in Brazil.
+! Frequently used for websites to apply scams in Brazil.
 ||*.shop^ 
 ||*.online
 ||*.space^$denyallow=frisk.space
@@ -37,7 +37,7 @@
 ||engenharia.ws^
 ||agropecuaria.ws^
 ||navederesprotes.com^ 
-# Prime Video/Amazon
+! Prime Video/Amazon
 ||pay.prime-oferta.com^
 ||erosionistovf.com^
 ||primeplano-online.com^
@@ -52,7 +52,7 @@
 ||primeday.click^
 ||lojaruedasoficial.com^
 ||campanhafirestick.site^
-# Starlink
+! Starlink
 ||starlinkofertasonline.com^
 ||brasil-starnet.store^
 ||starlink-vitalicio.com^
@@ -62,11 +62,11 @@
 ||starlinkbrazilian.com^
 ||bitelectronics.com.br^
 ||starlinkbrasil.co.in^
-# Receita Federal
+! Receita Federal
 ||sistemaseguroo.com^
-# Polishop
+! Polishop
 ||promophones.org^
-# Mercado LIvre
+! Mercado LIvre
 ||alojadooutlet.com^ 
 ||linkdepagamentos.com^
 ||mlivredescontao.com^
@@ -114,20 +114,20 @@
 ||brasildrops.com^
 ||mercadoprodutoslivres.com.br^
 ||confiraaquiessaofftododiia.com^
-# Bradesco/Livelo
+! Bradesco/Livelo
 ||portalseguros.com^
 ||programadepontoslive.myowndomain.name^
 ||bradesco-livelo.engenharia.ws^
 ||resgatepontos.correio.biz^
 ||agenciamots.com.ar^
 ||galeriaprimordialwb.com^
-# Gov.BR
+! Gov.BR
 ||consultasaldos.com^
 ||portalacesso-resgate.com^
 ||restituirvalores.com^
 ||indenizarapido.com^
 ||favicredi.com^
-# Americanas
+! Americanas
 ||cupom-especial-de-hoje.com^
 ||cupom-americanas.com^
 ||canaldigitalamericanapp.com^
@@ -139,18 +139,18 @@
 ||web-de-cupom-de-desconto-hoje.com^
 ||ofertadodia-precosexclusivos.com^
 ||exclusividadebalckfridayclick.com^
-# Serasa
+! Serasa
 ||acordo-fevereiro.com^
 ||serasa-av.vercel.app^
 ||indenizeme.com^
 ||recuperafacil.org^
 ||indeniza.net^
 ||consultasrs.com^
-# G1
+! G1
 ||gnoticia.com^
 ||portalnoticiasbrasileiras.com^
 ||g1.globonews.lol^
-# Havan
+! Havan
 ||lojahavambrasil.com^
 ||lojaashavan.store^
 ||lojahavambrazil.com^
@@ -158,13 +158,13 @@
 ||resgate.lucre-com-notas.com^
 ||web-site-oficial.net^
 ||site-seguro.responda-o-quiz-2024.com^
-# Magazine Luiza
+! Magazine Luiza
 ||redir-magal.com^
 ||magazineluiza.com^
 ||magalupayment.com^
 ||luizaclube.com^
 ||magazine-luiza-br.com^
-# Pagamentos
+! Pagamentos
 ||loja-1-5.finalizarcompra.com^
 ||pay.izzahome.com^
 ||checkout.ativopay.com^
@@ -173,87 +173,87 @@
 ||pay.pagameentoseguro.com^
 ||pay.ls2helmets.live^
 ||efetuarpagamento.com^
-# Cavalo de Troia/Trojan horse
+! Cavalo de Troia/Trojan horse
 ||*.cursosfirehelp.com.br^
-# Rolex
+! Rolex
 ||guia-oficial.com^
-# Shoppe
+! Shoppe
 ||*chktseguro.com^
-# Casas Bahia
-# ofertacasabahiaapp.com^
+! Casas Bahia
+! ofertacasabahiaapp.com^
 ||bahia-dia-das-maes.com^
 ||dicassemanal.com^
-# Brooksfield
+! Brooksfield
 ||brooksfiielld.myshopify.com^
 ||brooksfieldshopingg.myshopify.com^
 ||brooksfieldsbhshoping.myshopify.com^
-# Latam
+! Latam
 ||promo-latam2024.com^
 ||latamlinhasaerea.com^
 ||https://voejalatam.com^
 ||voospromocionaiis.com^
 ||airlines-brasil.com^
 ||voosemoffertas.com^
-# Tesla
+! Tesla
 ||teslaoficial.co.in^
-# Netshoes
+! Netshoes
 ||promocoesnanet.myshopify.com^
 ||anetshoes.com
-# Olympikus
+! Olympikus
 ||compre-olympikus.com^
-# Decolar
+! Decolar
 ||decolar.promoaerea.com^
-# Rock in Rio
+! Rock in Rio
 ||ticketsmaster.github.io^
-# Netflix
+! Netflix
 ||assinaturapremiada.com^
-# Play Store
+! Play Store
 ||vector-king.rest^
-# Microsoft
+! Microsoft
 ||surfacepro-oferta.com^
 ||microsoft-amazon.shop^
-# Burger King
+! Burger King
 ||verdadesegura.com^
 ||bkstanley.store^
 ||bkpagstore.web.app^
 ||burguerking.pesquisa-ganhe.com^
 ||responda-burger.online^
 ||burgerking.pesquisasgeral.com^
-# Correios
+! Correios
 ||meucorreios.org^
 ||ofertasbrasil.blog^
-# Mundial
+! Mundial
 ||ofertamondial.com^
-# Vasco Boutique
+! Vasco Boutique
 ||https://vascostorefc.com^
-# Lacoste
+! Lacoste
 ||ultimodiaofertalala.store^
 ||lacoste.outlett.pro^
-# Polícia Rodoviária Federal
+! Polícia Rodoviária Federal
 ||carrospcd.com.br^
 ||guiaauto.com.br^
-# Pag Seguro
+! Pag Seguro
 ||asuamaquininha.com.br^
 ||ofertasdemaquininhas.com.br^
 ||ofertademaquininha.com.br^
-# Hugo Boss
+! Hugo Boss
 ||bossoutlet.store^
 ||bossoutletbrasil.myshopify.com^
-# AliExpress
+! AliExpress
 ||resgate-boxes.com^
-# Farm
+! Farm
 ||receber-express.com^
-# Nescafé
+! Nescafé
 ||quizzpremiado.store^
-# Shoptime
+! Shoptime
 ||promoshoptime.com^
-# Mizuno
+! Mizuno
 ||usemizuno.store^
-# Dior
+! Dior
 ||pesquisa-sauvagedior.com^
-# Google 
+! Google 
 ||resgateagora.club^
-# Other 
+! Other 
 ||alohomoraloja.com^
 ||caps.sb2turbo.com^
 ||shoes-brasil.com^
@@ -263,5 +263,5 @@
 ||emporioiphone.com.br^
 ||tradarinews.com^
 ||kasamaster.com^
-# Liberados
+! Liberados
 @@||unicred1538.assembleias.online^
