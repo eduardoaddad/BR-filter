@@ -138,6 +138,7 @@
 ||ofertasfeiras.com^
 ||web-de-cupom-de-desconto-hoje.com^
 ||ofertadodia-precosexclusivos.com^
+||exclusividadebalckfridayclick.com^
 # Serasa
 ||acordo-fevereiro.com^
 ||serasa-av.vercel.app^
