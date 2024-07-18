@@ -196,6 +196,7 @@
 ||teslaoficial.co.in^
 # Netshoes
 ||promocoesnanet.myshopify.com^
+||anetshoes.com
 # Olympikus
 ||compre-olympikus.com^
 # Decolar
