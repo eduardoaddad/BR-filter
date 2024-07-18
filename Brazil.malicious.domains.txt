@@ -234,6 +234,7 @@
 # Pag Seguro
 ||asuamaquininha.com.br^
 ||ofertasdemaquininhas.com.br^
+||ofertademaquininha.com.br^
 # Hugo Boss
 ||bossoutlet.store^
 ||bossoutletbrasil.myshopify.com^
