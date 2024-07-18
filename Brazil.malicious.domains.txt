@@ -116,6 +116,7 @@
 ||brasildrops.com^
 ||mercadoprodutoslivres.com.br^
 ||confiraaquiessaofftododiia.com^
+||millenniumshopp.com^
 ! Bradesco/Livelo
 ||portalseguros.com^
 ||programadepontoslive.myowndomain.name^
