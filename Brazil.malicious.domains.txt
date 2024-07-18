@@ -251,6 +251,8 @@
 ||usemizuno.store^
 # Dior
 ||pesquisa-sauvagedior.com^
+# Google 
+||resgateagora.club^
 # Other 
 ||alohomoraloja.com^
 ||caps.sb2turbo.com^
