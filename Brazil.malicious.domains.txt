@@ -244,6 +244,8 @@
 ||quizzpremiado.store^
 # Shoptime
 ||promoshoptime.com^
+# Mizuno
+||usemizuno.store^
 # Other 
 ||alohomoraloja.com^
 ||caps.sb2turbo.com^
