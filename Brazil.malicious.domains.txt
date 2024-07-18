@@ -248,6 +248,8 @@
 ||promoshoptime.com^
 # Mizuno
 ||usemizuno.store^
+# Dior
+||pesquisa-sauvagedior.com^
 # Other 
 ||alohomoraloja.com^
 ||caps.sb2turbo.com^
