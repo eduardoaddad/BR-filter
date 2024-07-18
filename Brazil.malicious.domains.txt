@@ -106,7 +106,12 @@
 ||samsung-25-anos-ml.myshopify.com^
 ||mercadoshopmax.com^
 ||mercadolivre.comprablindada.click^
-||appmercadolivr.com^
+||25-anos-mercado-livre.myshopify.com^
+||bazardaleticia.com^
+||americaofertas.store^
+||produto.uno^
+||megaofertasml.com^
+||brasildrops.com^
 # Bradesco/Livelo
 ||portalseguros.com^
 ||programadepontoslive.myowndomain.name^
