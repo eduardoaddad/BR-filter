@@ -112,6 +112,8 @@
 ||produto.uno^
 ||megaofertasml.com^
 ||brasildrops.com^
+||mercadoprodutoslivres.com.br^
+||confiraaquiessaofftododiia.com^
 # Bradesco/Livelo
 ||portalseguros.com^
 ||programadepontoslive.myowndomain.name^
