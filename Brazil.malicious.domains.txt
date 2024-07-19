@@ -117,6 +117,7 @@
 ||mercadoprodutoslivres.com.br^
 ||confiraaquiessaofftododiia.com^
 ||millenniumshopp.com^
+||br-mercadollivre.com^
 ! Bradesco/Livelo
 ||portalseguros.com^
 ||programadepontoslive.myowndomain.name^
@@ -135,6 +136,7 @@
 ||cupom-americanas.com^
 ||canaldigitalamericanapp.com^
 ||ofertadasemana-precosexclusivos.com^
+||exclusivoamerica.com^
 ||hotm.art^
 ||exclusivodahora.com^
 ||oficiallojamais.com^
