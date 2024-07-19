@@ -250,6 +250,7 @@
 ! Hugo Boss
 ||bossoutlet.store^
 ||bossoutletbrasil.myshopify.com^
+||boss-outlet.com^
 ! AliExpress
 ||resgate-boxes.com^
 ! Farm
@@ -274,6 +275,7 @@
 ||emporioiphone.com.br^
 ||tradarinews.com^
 ||kasamaster.com^
+||nohallstore.com.br^
 ||cannabisbrltda.co.in^
 ! Liberados
 @@||unicred1538.assembleias.online^
