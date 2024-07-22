@@ -159,6 +159,7 @@
 ||g1.globonews.lol^
 ||noticiasparaobrasil.com^
 ||wi7u3fhl3477thq236sk1dls.petssellers.com^
+||g1.globoo.info^
 ! Havan
 ||lojahavambrasil.com^
 ||lojaashavan.store^
