@@ -1,7 +1,7 @@
 ! Title: BR-FILTER: Malicious websites
 ! Description: Filter that blocks fake websites that are used to carry out scams.
-! Version: 1.5.24
-! TimeUpdated: 2024-20-07:09:00+00:00
+! Version: 1.5.25
+! TimeUpdated: 2024-22-07:09:00+00:00
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/eduardoaddad/BR-filter
 
@@ -246,6 +246,7 @@
 ! Polícia Rodoviária Federal
 ||carrospcd.com.br^
 ||guiaauto.com.br^
+||outlethoje.com^
 ! Pag Seguro
 ||asuamaquininha.com.br^
 ||ofertasdemaquininhas.com.br^
