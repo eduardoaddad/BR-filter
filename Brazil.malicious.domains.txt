@@ -199,6 +199,7 @@
 ||guia-oficial.com^
 ! Shoppe
 ||*chktseguro.com^
+||resgatepremioshoppe.com^
 ! Casas Bahia
 ! ofertacasabahiaapp.com^
 ||bahia-dia-das-maes.com^
