@@ -119,6 +119,7 @@
 ||millenniumshopp.com^
 ||br-mercadollivre.com^
 ||oferta-plus.store^
+||buzzblaststore.com^
 ! Bradesco/Livelo
 ||portalseguros.com^
 ||programadepontoslive.myowndomain.name^
