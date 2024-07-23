@@ -145,6 +145,7 @@
 ||web-de-cupom-de-desconto-hoje.com^
 ||ofertadodia-precosexclusivos.com^
 ||exclusividadebalckfridayclick.com^
+||apenas-hoje-so-hoje.com^
 ! Serasa
 ||acordo-fevereiro.com^
 ||serasa-av.vercel.app^
