@@ -212,6 +212,7 @@
 ||airlines-brasil.com^
 ||voosemoffertas.com^
 ||ferias-voelatam.com
+||passagenscomdescontos.com^
 ! Tesla
 ||teslaoficial.co.in^
 ! Netshoes
