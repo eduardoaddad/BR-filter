@@ -192,6 +192,7 @@
 ||pay.pagameentoseguro.com^
 ||pay.ls2helmets.live^
 ||efetuarpagamento.com^
+||checkout.perfectpay.com.br^
 ! Cavalo de Troia/Trojan horse
 ||*.cursosfirehelp.com.br^
 ! Rolex
