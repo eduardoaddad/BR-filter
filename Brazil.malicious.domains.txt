@@ -122,6 +122,7 @@
 ||oferta-plus.store^
 ||buzzblaststore.com^
 ||quizmercadolvre.com^
+||economizecomquiz.com^
 ! Bradesco/Livelo
 ||portalseguros.com^
 ||programadepontoslive.myowndomain.name^
