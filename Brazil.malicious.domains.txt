@@ -321,5 +321,6 @@
 ||lojacotton-on.myshopify.com^
 ||toalhaskarsten.com^
 ||forjagaucha-descontos.pro^
+||pay.kiwify.com.br^
 ! Liberados
 @@||unicred1538.assembleias.online^
