@@ -1,7 +1,7 @@
 ! Title: BR-FILTER: Malicious websites
 ! Description: Filter that blocks fake websites that are used to carry out scams.
-! Version: 1.5.26
-! TimeUpdated: 2024-23-07:09:00+00:00
+! Version: 1.5.27
+! TimeUpdated: 2024-24-07:09:00+00:00
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/eduardoaddad/BR-filter
 
@@ -311,5 +311,6 @@
 ||cannabisbrltda.co.in^
 ||blackbran.com^
 ||lojacotton-on.myshopify.com^
+||toalhaskarsten.com^
 ! Liberados
 @@||unicred1538.assembleias.online^
