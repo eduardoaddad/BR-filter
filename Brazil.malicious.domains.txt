@@ -293,6 +293,7 @@
 ! Dior
 ||pesquisa-sauvagedior.com^
 ||resgate-premiacao.com^
+||resgate-dior.portalnoticias.cloud^
 ! Google 
 ||resgateagora.club^
 ! Reserva
