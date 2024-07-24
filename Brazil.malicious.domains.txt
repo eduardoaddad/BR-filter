@@ -123,6 +123,7 @@
 ||buzzblaststore.com^
 ||quizmercadolvre.com^
 ||economizecomquiz.com^
+||quiz.mllivreofertas.com^
 ! Bradesco/Livelo
 ||portalseguros.com^
 ||programadepontoslive.myowndomain.name^
