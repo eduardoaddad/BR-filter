@@ -169,6 +169,7 @@
 ||*.sportsexplosives.com^
 ||g1.globoo.info^
 ||noticiasonline.vercel.app^
+||globonoticias.info^
 ! Havan
 ||lojahavambrasil.com^
 ||lojaashavan.store^
