@@ -277,6 +277,7 @@
 ||boss-outlet.com^
 ! AliExpress
 ||resgate-boxes.com^
+||lojadosdescontos.co.in^
 ! Farm
 ||receber-express.com^
 ! Nescafé
