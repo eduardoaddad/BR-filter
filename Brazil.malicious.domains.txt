@@ -227,6 +227,7 @@
 ||voosemoffertas.com^
 ||ferias-voelatam.com
 ||passagenscomdescontos.com^
+||viagemcomdescontosferias.com^
 ! Tesla
 ||teslaoficial.co.in^
 ! Netshoes
