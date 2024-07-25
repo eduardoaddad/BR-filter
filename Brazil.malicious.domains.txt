@@ -124,6 +124,7 @@
 ||quizmercadolvre.com^
 ||economizecomquiz.com^
 ||quiz.mllivreofertas.com^
+||semana-do-consumidor.com^
 ! Bradesco/Livelo
 ||portalseguros.com^
 ||programadepontoslive.myowndomain.name^
