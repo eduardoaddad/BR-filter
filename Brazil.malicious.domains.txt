@@ -331,5 +331,6 @@
 ||pay.kiwify.com.br^
 ||recupera-facil.org^
 ||realizarevisional.com.br^
+||anonimodabet.com^
 ! Liberados
 @@||unicred1538.assembleias.online^
