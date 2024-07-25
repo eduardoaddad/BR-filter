@@ -314,6 +314,8 @@
 ||calcadosematacado.myshopify.com^
 ! Centauro 
 ||app-centauro-43-anos-aniversario.myshopify.com^
+! Tommy Hilfiger
+||tommyoficialbr.com^
 ! Other 
 ||alohomoraloja.com^
 ||caps.sb2turbo.com^
