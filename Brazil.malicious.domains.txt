@@ -312,6 +312,8 @@
 ||mercafe.premiosoficiais.info^
 ! SCHUTZ
 ||calcadosematacado.myshopify.com^
+! Centauro 
+||app-centauro-43-anos-aniversario.myshopify.com^
 ! Other 
 ||alohomoraloja.com^
 ||caps.sb2turbo.com^
