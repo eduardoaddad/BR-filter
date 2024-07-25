@@ -235,6 +235,7 @@
 ||promodevoos2024.com^
 ! Tesla
 ||teslaoficial.co.in^
+||tecnojornal.com^
 ! Netshoes
 ||promocoesnanet.myshopify.com^
 ||anetshoes.com
