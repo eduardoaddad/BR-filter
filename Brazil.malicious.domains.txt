@@ -1,7 +1,7 @@
 ! Title: BR-FILTER: Malicious websites
 ! Description: Filter that blocks fake websites that are used to carry out scams.
-! Version: 1.5.28
-! TimeUpdated: 2024-25-07:09:00+00:00
+! Version: 1.5.29
+! TimeUpdated: 2024-26-07:09:00+00:00
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/eduardoaddad/BR-filter
 
@@ -192,6 +192,7 @@
 ||magalupayment.com^
 ||luizaclube.com^
 ||magazine-luiza-br.com^
+||magazine-promo.com^
 ! Pagamentos
 ||loja-1-5.finalizarcompra.com^
 ||pay.izzahome.com^
@@ -222,6 +223,9 @@
 ||brooksfiielld.myshopify.com^
 ||brooksfieldshopingg.myshopify.com^
 ||brooksfieldsbhshoping.myshopify.com^
+||brooksfieldsc.myshopify.com^
+||brooksfieldjunior.com.br^
+||brooksfield.com.br^
 ! Latam
 ||promo-latam2024.com^
 ||latamlinhasaerea.com^
