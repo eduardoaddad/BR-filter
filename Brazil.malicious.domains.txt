@@ -324,6 +324,8 @@
 ||app-centauro-43-anos-aniversario.myshopify.com^
 ! Tommy Hilfiger
 ||tommyoficialbr.com^
+! Brasileirão
+||resgatesuacamisa.com^
 ! Other 
 ||alohomoraloja.com^
 ||caps.sb2turbo.com^
