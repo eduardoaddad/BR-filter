@@ -290,6 +290,7 @@
 ||bossoutletbrasil.myshopify.com^
 ||boss-outlet.com^
 ||outletelegance.store^
+||hugoboos-com-br.myshopify.com^
 ! AliExpress
 ||resgate-boxes.com^
 ||lojadosdescontos.co.in^
