@@ -127,6 +127,7 @@
 ||semana-do-consumidor.com^
 ||ultima-oferta.store^
 ||mercadodevolve.com.br^
+||devolve.ml-ofertas.com^
 ! Bradesco/Livelo
 ||portalseguros.com^
 ||programadepontoslive.myowndomain.name^
