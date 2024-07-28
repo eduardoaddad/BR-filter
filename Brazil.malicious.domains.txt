@@ -132,6 +132,7 @@
 ||portalseguros.com^
 ||programadepontoslive.myowndomain.name^
 ||bradesco-livelo.engenharia.ws^
+||exclusive.bradesco.banco.resgate.pontos.co.ua^
 ||resgatepontos.correio.biz^
 ||agenciamots.com.ar^
 ||galeriaprimordialwb.com^
