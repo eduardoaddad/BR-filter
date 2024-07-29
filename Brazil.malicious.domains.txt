@@ -230,6 +230,7 @@
 ||brooksfieldsc.myshopify.com^
 ||brooksfieldjunior.com.br^
 ||brooksfield.com.br^
+||brooksfiield-com-br.myshopify.com^
 ! Latam
 ||promo-latam2024.com^
 ||latamlinhasaerea.com^
