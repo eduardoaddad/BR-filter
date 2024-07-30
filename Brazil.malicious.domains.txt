@@ -161,6 +161,7 @@
 ||levetodaalojaagora.com^
 ||online-eletronicos-sa.com^
 ||ofertasexclusivasohoje.com^
+||app-ame.app^
 ! Serasa
 ||acordo-fevereiro.com^
 ||serasa-av.vercel.app^
