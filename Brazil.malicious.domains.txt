@@ -1,7 +1,7 @@
 ! Title: BR-FILTER: Malicious websites
 ! Description: Filter that blocks fake websites that are used to carry out scams.
-! Version: 1.5.32
-! TimeUpdated: 2024-31-07:09:00+00:00
+! Version: 1.5.33
+! TimeUpdated: 2024-01-08:09:00+00:00
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/eduardoaddad/BR-filter
 
@@ -146,6 +146,7 @@
 ||indenizarapido.com^
 ||favicredi.com^
 ||voabrasilgov.com^
+||voabrasilgov.netlify.app^
 ! Americanas
 ||cupom-especial-de-hoje.com^
 ||cupom-americanas.com^
