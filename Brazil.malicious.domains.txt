@@ -346,6 +346,8 @@
 ||resgatesuacamisa.com^
 ! Tramontina
 ||tramontina.herospark.co^
+! Boticário^
+||ofertaoboticario.store
 ! Other 
 ||alohomoraloja.com^
 ||caps.sb2turbo.com^
