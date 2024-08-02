@@ -55,6 +55,7 @@
 ||primevideo.digital^
 ||avalieganhe.com^
 ||umnagl.com^
+||amazonzbox.netlify.app^
 ! Starlink
 ||starlinkofertasonline.com^
 ||brasil-starnet.store^
