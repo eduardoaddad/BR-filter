@@ -287,6 +287,8 @@
 ||statuspedido.com^
 ||rastreio-encomenda.netlify.app^
 ||status-encomenda-correios.netlify.app^
+||app.correio.services^
+||informativoscorreios.com^
 ! Mundial
 ||ofertamondial.com^
 ! Vasco Boutique
