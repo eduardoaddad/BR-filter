@@ -365,6 +365,8 @@
 ||ofertaoboticario.store
 ! Gol
 ||voe-gol-passagens.com^
+! Motorola
+|descontosmotorola.com^
 ! Other 
 ||alohomoraloja.com^
 ||caps.sb2turbo.com^
