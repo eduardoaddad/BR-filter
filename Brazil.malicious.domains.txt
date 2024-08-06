@@ -358,6 +358,8 @@
 ||tramontina.herospark.co^
 ! Boticário^
 ||ofertaoboticario.store
+! Gol
+||voe-gol-passagens.com^
 ! Other 
 ||alohomoraloja.com^
 ||caps.sb2turbo.com^
