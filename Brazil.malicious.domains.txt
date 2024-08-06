@@ -296,6 +296,7 @@
 ||status-encomenda-correios.netlify.app^
 ||app.correio.services^
 ||informativoscorreios.com^
+||pedidoverificado.pro^
 ! Mundial
 ||ofertamondial.com^
 ! Vasco Boutique
