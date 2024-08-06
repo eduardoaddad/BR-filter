@@ -149,6 +149,7 @@
 ||favicredi.com^
 ||voabrasilgov.com^
 ||voabrasilgov.netlify.app^
+||emaisservicos.com^
 ! Americanas
 ||cupom-especial-de-hoje.com^
 ||cupom-americanas.com^
