@@ -208,6 +208,8 @@
 ||luizaclube.com^
 ||magazine-luiza-br.com^
 ||magazine-promo.com^
+||produtodourado.com^
+||lojapatrocinadaoferta.com^
 ! Pagamentos
 ||loja-1-5.finalizarcompra.com^
 ||pay.izzahome.com^
