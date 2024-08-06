@@ -131,6 +131,7 @@
 ||devolve.ml-ofertas.com^
 ||mercadolider.co^
 ||mercadodevolveoficial.com^
+||mloficialpromocao.com^
 ! Bradesco/Livelo
 ||portalseguros.com^
 ||programadepontoslive.myowndomain.name^
