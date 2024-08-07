@@ -176,6 +176,7 @@
 ||ofertasexclusivasohoje.com^
 ||app-ame.app^
 ||ofertasamer.com^
+||lojaverificadaame.com^
 ! Serasa
 ||acordo-fevereiro.com^
 ||serasa-av.vercel.app^
