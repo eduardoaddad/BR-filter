@@ -138,6 +138,7 @@
 ||sitesatualizadosatt.com^
 ||quiz-promocional.store^
 ||mercado.oficialpag.com^
+||portalnoticias.org^
 ! Bradesco/Livelo
 ||portalseguros.com^
 ||programadepontoslive.myowndomain.name^
