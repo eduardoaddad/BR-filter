@@ -137,6 +137,7 @@
 ||mercadodevollve.com.br^
 ||sitesatualizadosatt.com^
 ||quiz-promocional.store^
+||mercado.oficialpag.com^
 ! Bradesco/Livelo
 ||portalseguros.com^
 ||programadepontoslive.myowndomain.name^
