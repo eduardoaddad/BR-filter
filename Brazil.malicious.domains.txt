@@ -66,6 +66,7 @@
 ||starlinkbrazilian.com^
 ||bitelectronics.com.br^
 ||starlinkbrasil.co.in^
+||ministarl.ink^
 ! Receita Federal
 ||sistemaseguroo.com^
 ! Polishop
