@@ -376,6 +376,8 @@
 ||voe-gol-passagens.com^
 ! Motorola
 |descontosmotorola.com^
+! CNN
+||centraldenoticias.blog^
 ! Other 
 ||alohomoraloja.com^
 ||caps.sb2turbo.com^
@@ -404,6 +406,7 @@
 ||pilotoaviator.pro^
 ||matheuscarson.com^
 ||variamix.com^
+||brdyson.com^
 ! Liberados
 @@||unicred1538.assembleias.online^
 @@||gamersafer.notion.site^
