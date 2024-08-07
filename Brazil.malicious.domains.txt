@@ -231,7 +231,8 @@
 ! Rolex
 ||guia-oficial.com^
 ! Shoppe
-||*chktseguro.com^
+||*.chktseguro.com^
+||*.shopee.ee^
 ||resgatepremioshoppe.com^
 ! Casas Bahia
 ! ofertacasabahiaapp.com^
