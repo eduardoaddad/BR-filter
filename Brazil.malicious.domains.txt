@@ -159,6 +159,7 @@
 ||voabrasilgov.com^
 ||voabrasilgov.netlify.app^
 ||emaisservicos.com^
+||oficial-voabrasil-gov.vercel.app^
 ! Americanas
 ||cupom-especial-de-hoje.com^
 ||cupom-americanas.com^
