@@ -142,6 +142,7 @@
 ||portalnoticias.org^
 ||atendimento-br.cloud^
 ||desconto-25anos-mercadolivr.store^
+||25anos-mercadolivre.vercel.app^
 ! Bradesco/Livelo
 ||portalseguros.com^
 ||programadepontoslive.myowndomain.name^
@@ -191,13 +192,14 @@
 ||experienciadigitalonline.com^
 ||consultasrs.com^
 ||atendimentoaocliente.is^
+||acordolimpanome.com^
 ! Globo
 ||gnoticia.com^
 ||portalnoticiasbrasileiras.com^
 ||g1.globonews.lol^
 ||noticiasparaobrasil.com^
 ||*.petssellers.com^
-||*.sportsexplosives.com^
+||.sportsexplosives.com^
 ||g1.globoo.info^
 ||noticiasonline.vercel.app^
 ||globonoticias.info^
