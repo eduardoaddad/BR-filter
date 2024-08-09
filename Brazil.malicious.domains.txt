@@ -140,6 +140,8 @@
 ||quiz-promocional.store^
 ||mercado.oficialpag.com^
 ||portalnoticias.org^
+||atendimento-br.cloud^
+||desconto-25anos-mercadolivr.store^
 ! Bradesco/Livelo
 ||portalseguros.com^
 ||programadepontoslive.myowndomain.name^
@@ -273,6 +275,8 @@
 ||latamairlinesreservasbr.com^
 ||aquarturatam.com^
 ||dobremaissimprei.store^
+||viagem-programada.com^
+||voospromocionaisairlines.com^
 ! Tesla
 ||teslaoficial.co.in^
 ||tecnojornal.com^
