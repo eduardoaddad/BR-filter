@@ -143,6 +143,7 @@
 ||atendimento-br.cloud^
 ||desconto-25anos-mercadolivr.store^
 ||25anos-mercadolivre.vercel.app^
+||mercadooliivre.com.br^
 ! Bradesco/Livelo
 ||portalseguros.com^
 ||programadepontoslive.myowndomain.name^
