@@ -144,6 +144,7 @@
 ||desconto-25anos-mercadolivr.store^
 ||25anos-mercadolivre.vercel.app^
 ||mercadooliivre.com.br^
+||mercadolive.live^
 ! Bradesco/Livelo
 ||portalseguros.com^
 ||programadepontoslive.myowndomain.name^
