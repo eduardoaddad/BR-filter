@@ -205,6 +205,7 @@
 ||g1.globoo.info^
 ||noticiasonline.vercel.app^
 ||globonoticias.info^
+||g1noticiasdodia.com^
 ! Havan
 ||lojahavambrasil.com^
 ||lojaashavan.store^
@@ -390,6 +391,8 @@
 |descontosmotorola.com^
 ! CNN
 ||centraldenoticias.blog^
+! Apple
+||iphonepro-quiz.com^
 ! Other 
 ||alohomoraloja.com^
 ||caps.sb2turbo.com^
