@@ -428,6 +428,5 @@
 ||aliancaatacadistas1.mycartpanda.com^
 ! Liberados
 @@||unicred1538.assembleias.online^
-@@||gamersafer.notion.site^
-@@||sparkuniverse.notion.site^
+@@||*.notion.site^
 @@||bio.site^
