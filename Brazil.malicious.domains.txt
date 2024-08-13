@@ -146,6 +146,7 @@
 ||mercadooliivre.com.br^
 ||mercadolive.live^
 ||oferta-premiada.store^
+||compremais-mercadolivrre.com^
 ! Bradesco/Livelo
 ||portalseguros.com^
 ||programadepontoslive.myowndomain.name^
@@ -398,6 +399,8 @@
 ||iphonepro-quiz.com^
 ! Interbras
 ||descontosintelbras.pro^
+! Asis
+||asics-brasil.com^
 ! Other 
 ||alohomoraloja.com^
 ||caps.sb2turbo.com^
