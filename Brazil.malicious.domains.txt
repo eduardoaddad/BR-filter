@@ -147,6 +147,7 @@
 ||mercadolive.live^
 ||oferta-premiada.store^
 ||compremais-mercadolivrre.com^
+||respondaeganhemercado25anos.vercel.app^
 ! Bradesco/Livelo
 ||portalseguros.com^
 ||programadepontoslive.myowndomain.name^
