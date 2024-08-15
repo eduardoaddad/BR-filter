@@ -70,6 +70,7 @@
 ||starlinkmini.store^
 ! Receita Federal
 ||sistemaseguroo.com^
+||taxa-tributaria.org^
 ! Polishop
 ||promophones.org^
 ! Mercado LIvre
@@ -405,6 +406,8 @@
 ||descontosintelbras.pro^
 ! Asis
 ||asics-brasil.com^
+! UOL
+||diario-noticias.com^
 ! Other 
 ||alohomoraloja.com^
 ||caps.sb2turbo.com^
