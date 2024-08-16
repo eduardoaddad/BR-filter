@@ -69,6 +69,7 @@
 ||ministarl.ink^
 ||starlinkmini.store^
 ||starstorex.com^
+||*.starlink-mini.com^
 ! Receita Federal
 ||sistemaseguroo.com^
 ||taxa-tributaria.org^
