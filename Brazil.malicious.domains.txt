@@ -256,6 +256,7 @@
 ! Casas Bahia
 ! ofertacasabahiaapp.com^
 ||bahia-dia-das-maes.com^
+||ofertablackpatrocinado.com^
 ||megapromocb.lat^
 ||dicassemanal.com^
 ||prevendapatrocinadooferta.com^
