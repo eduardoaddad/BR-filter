@@ -412,6 +412,8 @@
 ||asics-brasil.com^
 ! UOL
 ||diario-noticias.com^
+! Ifood 
+||promocao-ifoodcard.netlify.app^
 ! Other 
 ||alohomoraloja.com^
 ||caps.sb2turbo.com^
