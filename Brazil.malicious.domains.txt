@@ -335,6 +335,7 @@
 ||seu-pagamento.store^
 ||app.acompanhe.ai^
 ||comendas.sedex10.ai^
+||encomendas.sedex10.ai^
 ! Mundial
 ||ofertamondial.com^
 ! Vasco Boutique
