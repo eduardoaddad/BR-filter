@@ -450,3 +450,4 @@
 @@||unicred1538.assembleias.online^
 @@||*.notion.site^
 @@||bio.site^
+@@||*.2k.com
