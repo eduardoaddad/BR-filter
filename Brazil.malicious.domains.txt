@@ -333,6 +333,7 @@
 ||statusdoenvio.com^
 ||*.avisorestricao.com^
 ||seu-pagamento.store^
+||app.acompanhe.ai^
 ! Mundial
 ||ofertamondial.com^
 ! Vasco Boutique
