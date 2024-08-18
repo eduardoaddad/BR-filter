@@ -73,6 +73,7 @@
 ! Receita Federal
 ||sistemaseguroo.com^
 ||taxa-tributaria.org^
+||taxa-receita.org^
 ! Polishop
 ||promophones.org^
 ! Mercado LIvre
