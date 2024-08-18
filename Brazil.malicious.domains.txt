@@ -450,4 +450,5 @@
 @@||unicred1538.assembleias.online^
 @@||*.notion.site^
 @@||bio.site^
-@@||*.2k.com
+@@||mafia-main.2kweb.online
+@@|| ds-green-master-prod.2
