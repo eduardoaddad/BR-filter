@@ -251,6 +251,7 @@
 ||checkout.perfectpay.com.br^
 ! Cavalo de Troia/Trojan horse
 ||*.cursosfirehelp.com.br^
+||danfe.environmental-dir.com^
 ! Rolex
 ||guia-oficial.com^
 ! Shoppe
