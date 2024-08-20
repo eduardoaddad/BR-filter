@@ -462,3 +462,4 @@
 @@||mafia-main.2kweb.online^
 @@||ds-green-master-prod.2kweb.online^
 @@||mafia.2k.com^
+@@||skylo.tech^
