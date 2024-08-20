@@ -342,6 +342,7 @@
 ||encomendas.sedex10.ai^
 ||ww1.rastreamento.services^
 ||ww1.rastreamento.ai^
+||rastreamento.correios-online.com^
 ! Mundial
 ||ofertamondial.com^
 ! Vasco Boutique
