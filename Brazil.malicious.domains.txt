@@ -155,6 +155,7 @@
 ||compremais-mercadolivrre.com^
 ||respondaeganhemercado25anos.vercel.app^
 ||oficial.quiz-digitial.com^
+||ofertas-ml.store^
 ! Bradesco/Livelo
 ||portalseguros.com^
 ||programadepontoslive.myowndomain.name^
@@ -302,6 +303,7 @@
 ||Itmvoosmega.com^
 ||viagem-ferias-julho.com^
 ||Itmairlines.com^
+||cupomturismoatam.com^
 ! Tesla
 ||teslaoficial.co.in^
 ||tecnojornal.com^
