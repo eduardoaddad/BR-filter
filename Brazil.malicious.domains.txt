@@ -357,6 +357,7 @@
 ||ww1.rastreamento.ai^
 ||rastreamento.correios-online.com^
 ||rastreios.envioscorreios.com^
+||brasilconsulta.cloud^
 ! Mundial
 ||ofertamondial.com^
 ! Vasco Boutique
