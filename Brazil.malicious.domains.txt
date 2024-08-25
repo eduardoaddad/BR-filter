@@ -161,6 +161,7 @@
 ||typebot.com^
 ||ofertasexpertes.com^
 ||*.nssportshoes.com^
+||typebot.co^
 ! Bradesco/Livelo
 ||portalseguros.com^
 ||programadepontoslive.myowndomain.name^
