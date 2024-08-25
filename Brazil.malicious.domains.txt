@@ -72,6 +72,7 @@
 ||starstorex.com^
 ||*.starlink-mini.com^
 ||solucoesparacasa.com^
+||starminilinkbrasil.com^
 ! Receita Federal
 ||sistemaseguroo.com^
 ||taxa-tributaria.org^
