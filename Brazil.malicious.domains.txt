@@ -227,6 +227,7 @@
 ||noticiasonline.vercel.app^
 ||globonoticias.info^
 ||g1noticiasdodia.com^
+||g1.globoeconomia.com^
 ! Havan
 ||lojahavambrasil.com^
 ||lojaashavan.store^
