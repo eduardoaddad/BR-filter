@@ -73,6 +73,7 @@
 ||*.starlink-mini.com^
 ||solucoesparacasa.com^
 ||starminilinkbrasil.com^
+||starlinks.world^
 ! Receita Federal
 ||sistemaseguroo.com^
 ||taxa-tributaria.org^
@@ -158,6 +159,8 @@
 ||oficial.quiz-digitial.com^
 ||ofertas-ml.store^
 ||typebot.com^
+||ofertasexpertes.com^
+||*.nssportshoes.com^
 ! Bradesco/Livelo
 ||portalseguros.com^
 ||programadepontoslive.myowndomain.name^
