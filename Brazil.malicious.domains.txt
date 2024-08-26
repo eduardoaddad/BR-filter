@@ -182,6 +182,7 @@
 ||voabrasilgov.netlify.app^
 ||emaisservicos.com^
 ||oficial-voabrasil-gov.vercel.app^
+||portalreceita.org^
 ! Americanas
 ||cupom-especial-de-hoje.com^
 ||cupom-americanas.com^
