@@ -218,6 +218,7 @@
 ||atendimentoaocliente.is^
 ||acordolimpanome.com^
 ||seguros-pag.com^
+||paynew-pag.com^
 ! Globo
 ||gnoticia.com^
 ||portalnoticiasbrasileiras.com^
