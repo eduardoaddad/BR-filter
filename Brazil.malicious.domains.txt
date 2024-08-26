@@ -206,6 +206,7 @@
 ||lojaverificadaame.com^
 ||ametodalojaagora.com^
 ||ofertasame.com.br^
+||ofertasamedigitall.com^
 ! Serasa
 ||acordo-fevereiro.com^
 ||serasa-av.vercel.app^
