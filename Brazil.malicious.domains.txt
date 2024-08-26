@@ -162,6 +162,7 @@
 ||ofertasexpertes.com^
 ||*.nssportshoes.com^
 ||typebot.co^
+||mercadoapp.digital^
 ! Bradesco/Livelo
 ||portalseguros.com^
 ||programadepontoslive.myowndomain.name^
