@@ -166,6 +166,7 @@
 ||typebot.co^
 ||mercadoapp.digital^
 ||promocao-forja.store^
+||ofertaspromocao.store^
 ! Bradesco/Livelo
 ||portalseguros.com^
 ||programadepontoslive.myowndomain.name^
