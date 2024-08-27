@@ -74,10 +74,12 @@
 ||solucoesparacasa.com^
 ||starminilinkbrasil.com^
 ||starlinks.world^
+||estrelalink.net^
 ! Receita Federal
 ||sistemaseguroo.com^
 ||taxa-tributaria.org^
 ||taxa-receita.org^
+||portalreceita.org^
 ! Polishop
 ||promophones.org^
 ! Mercado LIvre
@@ -184,7 +186,6 @@
 ||voabrasilgov.netlify.app^
 ||emaisservicos.com^
 ||oficial-voabrasil-gov.vercel.app^
-||portalreceita.org^
 ! Americanas
 ||cupom-especial-de-hoje.com^
 ||cupom-americanas.com^
