@@ -247,6 +247,7 @@
 ||tramontinadopovo.pay.yampi.com.br%
 ||havanresgate.com^
 ||responde-e-ganhe.xyz^
+||promocoeshv.vercel.app^
 ! Magazine Luiza
 ||redir-magal.com^
 ||magazineluiza.com^
@@ -483,7 +484,6 @@
 ||brdyson.com^
 ||forjagauchaoficial.click^
 ||aliancaatacadistas1.mycartpanda.com^
-||promocoeshv.vercel.app^
 ! Liberados
 @@||unicred1538.assembleias.online^
 @@||*.notion.site^
