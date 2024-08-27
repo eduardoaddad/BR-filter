@@ -483,6 +483,7 @@
 ||brdyson.com^
 ||forjagauchaoficial.click^
 ||aliancaatacadistas1.mycartpanda.com^
+||promocoeshv.vercel.app^
 ! Liberados
 @@||unicred1538.assembleias.online^
 @@||*.notion.site^
