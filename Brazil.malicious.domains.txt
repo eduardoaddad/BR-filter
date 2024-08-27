@@ -80,6 +80,7 @@
 ||taxa-tributaria.org^
 ||taxa-receita.org^
 ||portalreceita.org^
+||leilaoreceita.netlify.app^
 ! Polishop
 ||promophones.org^
 ! Mercado LIvre
