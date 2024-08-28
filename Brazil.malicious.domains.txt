@@ -213,6 +213,7 @@
 ||ametodalojaagora.com^
 ||ofertasame.com.br^
 ||ofertasamedigitall.com^
+||ofertas.abrir.click^
 ! Serasa
 ||acordo-fevereiro.com^
 ||serasa-av.vercel.app^
@@ -329,6 +330,7 @@
 ||tecnojornal.com^
 ! Netshoes
 ||promocoesnanet.myshopify.com^
+||usenetshoes.com^
 ||anetshoes.com
 ||quiz-30anos.com^
 ! Olympikus
@@ -455,6 +457,8 @@
 ||diario-noticias.com^
 ! Ifood 
 ||promocao-ifoodcard.netlify.app^
+! Facebook 
+||avaliadorfboficial.com^
 ! Other 
 ||alohomoraloja.com^
 ||caps.sb2turbo.com^
@@ -486,7 +490,6 @@
 ||brdyson.com^
 ||forjagauchaoficial.click^
 ||aliancaatacadistas1.mycartpanda.com^
-||usenetshoes.com^
 ! Liberados
 @@||unicred1538.assembleias.online^
 @@||*.notion.site^
