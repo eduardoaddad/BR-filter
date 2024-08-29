@@ -326,6 +326,7 @@
 ||dobreaquinoisis.store^
 ||latam-ofertas.com^
 ||obriigadotan.xyz^
+||Itmpassagensaereas.com^
 ! Tesla
 ||teslaoficial.co.in^
 ||tecnojornal.com^
