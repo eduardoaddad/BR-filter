@@ -327,6 +327,7 @@
 ||latam-ofertas.com^
 ||obriigadotan.xyz^
 ||Itmpassagensaereas.com^
+||ltmpassagensaereas.com^
 ! Tesla
 ||teslaoficial.co.in^
 ||tecnojornal.com^
