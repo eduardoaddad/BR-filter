@@ -1,7 +1,7 @@
 ! Title: BR-FILTER: Malicious websites
 ! Description: Filter that blocks fake websites that are used to carry out scams.
-! Version: 1.5.57
-! TimeUpdated: 2024-30-08:09:00+00:00
+! Version: 1.5.58
+! TimeUpdated: 2024-01-09:09:00+00:00
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/eduardoaddad/BR-filter
 
@@ -215,6 +215,7 @@
 ||ofertasame.com.br^
 ||ofertasamedigitall.com^
 ||ofertas.abrir.click^
+||americanaliquidacao.com^
 ! Serasa
 ||acordo-fevereiro.com^
 ||serasa-av.vercel.app^
