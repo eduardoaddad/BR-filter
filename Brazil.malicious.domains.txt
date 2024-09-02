@@ -380,6 +380,7 @@
 ||rastreios.envioscorreios.com^
 ||brasilconsulta.cloud^
 ||envioscorreios.com^
+||g1noticiahoje.com^
 ! Mundial
 ||ofertamondial.com^
 ! Vasco Boutique
