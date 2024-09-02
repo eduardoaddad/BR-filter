@@ -254,6 +254,7 @@
 ||havanresgate.com^
 ||responde-e-ganhe.xyz^
 ||promocoeshv.vercel.app^
+||lucianoperguntas.com^
 ! Magazine Luiza
 ||redir-magal.com^
 ||magazineluiza.com^
