@@ -384,6 +384,7 @@
 ||envioscorreios.com^
 ||g1noticiahoje.com^
 ||entregasegura.cloud^
+||centralderastreio.myshopify.com^
 ! Mundial
 ||ofertamondial.com^
 ! Vasco Boutique
