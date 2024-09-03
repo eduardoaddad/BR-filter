@@ -470,6 +470,8 @@
 ||promocao-ifoodcard.netlify.app^
 ! Facebook 
 ||avaliadorfboficial.com^
+! Banco Central 
+||resgate.direitodocidadao.org^
 ! Other 
 ||alohomoraloja.com^
 ||caps.sb2turbo.com^
