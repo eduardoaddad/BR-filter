@@ -259,6 +259,7 @@
 ||promocoeshv.vercel.app^
 ||lucianoperguntas.com^
 ||respondaluciano.com^
+||perguntasresponda.com^
 ! Magazine Luiza
 ||redir-magal.com^
 ||magazineluiza.com^
