@@ -1,7 +1,7 @@
 ! Title: BR-FILTER: Malicious websites
 ! Description: Filter that blocks fake websites that are used to carry out scams.
-! Version: 1.5.61
-! TimeUpdated: 2024-04-09:09:00+00:00
+! Version: 1.5.62
+! TimeUpdated: 2024-05-09:09:00+00:00
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/eduardoaddad/BR-filter
 
@@ -299,6 +299,7 @@
 ||cupomdescontocbahiabr.com^
 ||mesdospaiscasasbh.com^
 ||ofertaespecialparasuacasa.com^
+||queimadeestoquebahia.com^
 ! Brooksfield
 ||brooksfiielld.myshopify.com^
 ||brooksfieldshopingg.myshopify.com^
