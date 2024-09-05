@@ -171,6 +171,7 @@
 ||ofertaspromocao.store^
 ||promocaomlhoje.com^
 ||sac-consultas.store^
+||mercadolivree.net^
 ! Bradesco/Livelo
 ||portalseguros.com^
 ||programadepontoslive.myowndomain.name^
