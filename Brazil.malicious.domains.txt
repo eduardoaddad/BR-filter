@@ -494,6 +494,8 @@
 ! Nubank
 ||liberandolimiteja.com^
 ||webesitesasonline.com^
+! Caixa
+||sendbot.me^
 ! Other 
 ||alohomoraloja.com^
 ||caps.sb2turbo.com^
