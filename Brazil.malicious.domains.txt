@@ -252,6 +252,7 @@
 ||globonoticias.info^
 ||g1noticiasdodia.com^
 ||g1.globoeconomia.com^
+||portalbrasil.blog^
 ! Havan
 ||lojahavambrasil.com^
 ||lojaashavan.store^
