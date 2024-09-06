@@ -173,6 +173,7 @@
 ||sac-consultas.store^
 ||mercadolivree.net^
 ||gettglucobliss.com^
+||mercadolvrebr.store^
 ! Bradesco/Livelo
 ||portalseguros.com^
 ||programadepontoslive.myowndomain.name^
