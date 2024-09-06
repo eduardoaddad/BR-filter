@@ -490,6 +490,8 @@
 ||resgate.direitodocidadao.org^
 ||resgatar.acessarsite.life^
 ! Shell
+! Nubank
+||liberandolimiteja.com^
 ||webesitesasonline.com^
 ! Other 
 ||alohomoraloja.com^
