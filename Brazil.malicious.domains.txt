@@ -489,6 +489,8 @@
 ! Banco Central 
 ||resgate.direitodocidadao.org^
 ||resgatar.acessarsite.life^
+! Shell
+||webesitesasonline.com^
 ! Other 
 ||alohomoraloja.com^
 ||caps.sb2turbo.com^
