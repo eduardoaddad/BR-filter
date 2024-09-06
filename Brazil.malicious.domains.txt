@@ -197,6 +197,7 @@
 ||oficial-voabrasil-gov.vercel.app^
 ||tutorial-social.com^
 ||verificar-direitos.com^
+||auxiliogas.info^
 ! Americanas
 ||cupom-especial-de-hoje.com^
 ||cupom-americanas.com^
