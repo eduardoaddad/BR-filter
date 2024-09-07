@@ -1,7 +1,7 @@
 ! Title: BR-FILTER: Malicious websites
 ! Description: Filter that blocks fake websites that are used to carry out scams.
-! Version: 1.5.63
-! TimeUpdated: 2024-06-09:09:00+00:00
+! Version: 1.5.64
+! TimeUpdated: 2024-07-09:09:00+00:00
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/eduardoaddad/BR-filter
 
@@ -204,6 +204,7 @@
 ||suportemprestimo.com^
 ||emprebolsa.a.pinggy.link^
 ||emprestimobolsa.org^
+||regularize.live^
 ! Americanas
 ||cupom-especial-de-hoje.com^
 ||cupom-americanas.com^
