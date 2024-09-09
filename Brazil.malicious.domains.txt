@@ -176,6 +176,7 @@
 ||mercadolvrebr.store^
 ||mlmegaofertas.com^
 ||25anosmercadolivre.store^
+||usemercadolvre.com^
 ! Bradesco/Livelo
 ||portalseguros.com^
 ||programadepontoslive.myowndomain.name^
