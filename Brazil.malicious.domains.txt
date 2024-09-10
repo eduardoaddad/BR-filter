@@ -210,6 +210,7 @@
 ||regularize.live^
 ||auxiliogas.lat^
 ||meuacesso.org.uk^
+||meuacesso.life^
 ! Americanas
 ||cupom-especial-de-hoje.com^
 ||cupom-americanas.com^
