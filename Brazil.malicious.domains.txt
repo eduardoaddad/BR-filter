@@ -507,6 +507,8 @@
 ||sendbot.me^
 ! CREFISA
 ||httpsconsig-v9online.click^
+! Steam
+||steamvoucher.com^
 ! Other 
 ||alohomoraloja.com^
 ||caps.sb2turbo.com^
