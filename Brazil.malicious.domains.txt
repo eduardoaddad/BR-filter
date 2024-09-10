@@ -505,6 +505,8 @@
 ||webesitesasonline.com^
 ! Caixa
 ||sendbot.me^
+! CREFISA
+||httpsconsig-v9online.click^
 ! Other 
 ||alohomoraloja.com^
 ||caps.sb2turbo.com^
