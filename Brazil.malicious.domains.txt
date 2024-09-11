@@ -217,6 +217,7 @@
 ||consulta-aqui.store^
 ||*.atualcad.ink^
 ||atualizcad.one^
+||emprestimocaixa.github.io^
 ! Americanas
 ||cupom-especial-de-hoje.com^
 ||cupom-americanas.com^
