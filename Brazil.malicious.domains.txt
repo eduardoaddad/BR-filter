@@ -518,6 +518,8 @@
 ||httpsconsig-v9online.click^
 ! Steam
 ||steamvoucher.com^
+! Azul
+||voeiseguroazul.com^
 ! Other 
 ||alohomoraloja.com^
 ||caps.sb2turbo.com^
