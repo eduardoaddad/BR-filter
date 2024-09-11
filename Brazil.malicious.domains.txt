@@ -216,6 +216,7 @@
 ||meuacesso.one^
 ||consulta-aqui.store^
 ||*.atualcad.ink^
+||atualizcad.one^
 ! Americanas
 ||cupom-especial-de-hoje.com^
 ||cupom-americanas.com^
