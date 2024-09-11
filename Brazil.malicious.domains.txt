@@ -212,6 +212,7 @@
 ||auxiliogas.lat^
 ||meuacesso.org.uk^
 ||meuacesso.life^
+||emprebolsa.localto.net^
 ! Americanas
 ||cupom-especial-de-hoje.com^
 ||cupom-americanas.com^
