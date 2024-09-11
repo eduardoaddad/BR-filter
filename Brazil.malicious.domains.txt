@@ -214,6 +214,7 @@
 ||meuacesso.life^
 ||emprebolsa.localto.net^
 ||meuacesso.one^
+||consulta-aqui.store^
 ! Americanas
 ||cupom-especial-de-hoje.com^
 ||cupom-americanas.com^
