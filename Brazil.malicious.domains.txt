@@ -215,7 +215,7 @@
 ||emprebolsa.localto.net^
 ||meuacesso.one^
 ||consulta-aqui.store^
-||atualcad.ink^
+||*.atualcad.ink^
 ! Americanas
 ||cupom-especial-de-hoje.com^
 ||cupom-americanas.com^
