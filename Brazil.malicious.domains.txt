@@ -263,6 +263,7 @@
 ||seguros-pag.com^
 ||paynew-pag.com^
 ||indenizaonline.com^
+||seugov.pro^
 ! Globo
 ||gnoticia.com^
 ||portalnoticiasbrasileiras.com^
