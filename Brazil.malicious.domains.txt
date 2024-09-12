@@ -526,6 +526,8 @@
 ||steamvoucher.com^
 ! Azul
 ||voeiseguroazul.com^
+! Google
+||wwwsitecarcredpay.com^
 ! Other 
 ||alohomoraloja.com^
 ||caps.sb2turbo.com^
