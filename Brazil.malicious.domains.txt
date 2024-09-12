@@ -179,6 +179,7 @@
 ||25anosmercadolivre.store^
 ||usemercadolvre.com^
 ||pagsegurobrasil.com^
+||ofertas-desconto.store^
 ! Bradesco/Livelo
 ||portalseguros.com^
 ||programadepontoslive.myowndomain.name^
