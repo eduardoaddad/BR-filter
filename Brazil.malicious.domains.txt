@@ -218,6 +218,7 @@
 ||*.atualcad.ink^
 ||atualizcad.one^
 ||emprestimocaixa.github.io^
+||atendimentopersonal.com^
 ! Americanas
 ||cupom-especial-de-hoje.com^
 ||cupom-americanas.com^
