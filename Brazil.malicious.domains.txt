@@ -544,6 +544,7 @@
 ||steamvoucher.com^
 ! Azul
 ||voeiseguroazul.com^
+||voeseguroazul.com^
 ! Google
 ||wwwsitecarcredpay.com^
 ! Other 
