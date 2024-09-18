@@ -266,6 +266,7 @@
 ||ofertas.abrir.click^
 ||americanaliquidacao.com^
 ||aproveite-que-e-so-hoje.com^
+||lojavirtualamedigital.com^
 ! Serasa
 ||acordo-fevereiro.com^
 ||serasa-av.vercel.app^
