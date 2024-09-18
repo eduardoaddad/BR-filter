@@ -395,6 +395,7 @@
 ||voos.confirmacaodecompras.com^
 ||ticketpromolatm.com^
 ||airlatlines.com^
+||off.voosmadrugapromocional.com^
 ! Tesla
 ||teslaoficial.co.in^
 ||tecnojornal.com^
