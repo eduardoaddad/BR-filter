@@ -393,6 +393,7 @@
 ||airlines.voos-off-brasil.com^
 ||voos.confirmacaodecompras.com^
 ||ticketpromolatm.com^
+||airlatlines.com^
 ! Tesla
 ||teslaoficial.co.in^
 ||tecnojornal.com^
