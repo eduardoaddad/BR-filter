@@ -241,12 +241,13 @@
 ||informe.lat^
 ||informa.ink^
 ||atualizaafaccil-live.com^
+||bolsa.familiagas.info^
 ! Americanas
 ||cupom-especial-de-hoje.com^
 ||cupom-americanas.com^
 ||canaldigitalamericanapp.com^
 ||ofertadasemana-precosexclusivos.com^
-||exclusivoamerica.com^
+||e^xclusivoamerica.com^
 ||lojasameofertas.com^
 ||hotm.art^
 ||exclusivodahora.com^
