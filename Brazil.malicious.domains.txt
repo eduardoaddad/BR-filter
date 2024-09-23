@@ -402,6 +402,7 @@
 ||airlatlines.com^
 ||off.voosmadrugapromocional.com^
 ||viagenscomdescontoss.com.br^
+||br-latam.com^
 ! Tesla
 ||teslaoficial.co.in^
 ||tecnojornal.com^
