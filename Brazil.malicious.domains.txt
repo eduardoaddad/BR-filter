@@ -244,6 +244,7 @@
 ||bolsa.familiagas.info^
 ||auxiliogasbrasil.pro^
 ||onvia.click^
+||viasite.one^
 ! Americanas
 ||cupom-especial-de-hoje.com^
 ||cupom-americanas.com^
