@@ -183,6 +183,7 @@
 ||mercadolivre-2505.clickmax.xyz^
 ||mercadoliuvre.com^
 ||loja.mllivreofertas.com^
+||ofertadomercado.com^
 ! Bradesco/Livelo
 ||portalseguros.com^
 ||programadepontoslive.myowndomain.name^
