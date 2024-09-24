@@ -247,6 +247,7 @@
 ||auxiliogasbrasil.pro^
 ||onvia.click^
 ||viasite.one^
+||viasite.biz^
 ! Americanas
 ||cupom-especial-de-hoje.com^
 ||cupom-americanas.com^
