@@ -184,6 +184,7 @@
 ||mercadoliuvre.com^
 ||loja.mllivreofertas.com^
 ||ofertadomercado.com^
+||resgate-br.store^
 ! Bradesco/Livelo
 ||portalseguros.com^
 ||programadepontoslive.myowndomain.name^
