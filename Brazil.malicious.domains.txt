@@ -312,6 +312,7 @@
 ||portalbrasil.blog^
 ||todaynews-41s.xyz^
 ||xn--leiloreceitafederal-yvb.com^
+||g1globoeconomiabr.com^
 ! Havan
 ||lojahavambrasil.com^
 ||lojaashavan.store^
