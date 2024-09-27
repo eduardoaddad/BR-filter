@@ -1,7 +1,7 @@
 ! Title: BR-FILTER: Malicious websites
 ! Description: Filter that blocks fake websites that are used to carry out scams.
-! Version: 1.5.78
-! TimeUpdated: 09-26-2024:09:00+00:00
+! Version: 1.5.79
+! TimeUpdated: 09-27-2024:09:00+00:00
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/eduardoaddad/BR-filter
 
@@ -251,6 +251,8 @@
 ||viasite.biz^
 ||filled-reminder-installations-demographic.trycloudflare.com^
 ||atendimentofamilia.org^
+||viasite.xyz^
+||viasite.live^
 ! Americanas
 ||cupom-especial-de-hoje.com^
 ||cupom-americanas.com^
