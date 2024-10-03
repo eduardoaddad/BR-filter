@@ -586,6 +586,7 @@
 ! Azul
 ||voeiseguroazul.com^
 ||voeseguroazul.com^
+||jogosesprtivos.net^
 ! Google
 ||wwwsitecarcredpay.com^
 ! Tupperware
