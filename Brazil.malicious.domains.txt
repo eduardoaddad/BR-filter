@@ -287,6 +287,7 @@
 ||aproveite-que-e-so-hoje.com^
 ||lojavirtualamedigital.com^
 ||americanasemoferta.com^
+||produtoexclusivos24hrs.com.bra^
 ! Serasa
 ||acordo-fevereiro.com^
 ||serasa-av.vercel.app^
