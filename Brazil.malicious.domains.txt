@@ -536,12 +536,14 @@
 ||resgate-dior.portalnoticias.cloud^
 ! Google 
 ||resgateagora.club^
+||wwwsitecarcredpay.com^
 ! Reserva
 ||https://cuwiof.com^
 ! Granado
 ||ax-shop-outlet.com.br^
 ! Facebook
 ||novidade-online.com^
+||avaliadorfboficial.com^
 ! 3 Corações
 ||mercafe.premiosoficiais.info^
 ! SCHUTZ
@@ -562,6 +564,7 @@
 |descontosmotorola.com^
 ! CNN
 ||centraldenoticias.blog^
+||reduzamaisoficial.com^
 ! Apple
 ||iphonepro-quiz.com^
 ! Interbras
@@ -571,13 +574,10 @@
 ! UOL
 ||diario-noticias.com^
 ! Ifood 
-||promocao-ifoodcard.netlify.app^
-! Facebook 
-||avaliadorfboficial.com^
+||promocao-ifoodcard.netlify.app^ 
 ! Banco Central 
 ||resgate.direitodocidadao.org^
 ||resgatar.acessarsite.life^
-! Shell
 ! Nubank
 ||liberandolimiteja.com^
 ||webesitesasonline.com^
@@ -591,12 +591,8 @@
 ||voeiseguroazul.com^
 ||voeseguroazul.com^
 ||jogosesprtivos.net^
-! Google
-||wwwsitecarcredpay.com^
 ! Tupperware
 ||potes-tupper.store^
-! CNN
-||reduzamaisoficial.com^
 ! Other 
 ||alohomoraloja.com^
 ||caps.sb2turbo.com^
