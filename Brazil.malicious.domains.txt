@@ -186,6 +186,9 @@
 ||loja.mllivreofertas.com^
 ||ofertadomercado.com^
 ||resgate-br.store^
+||pravocemercadoprime.com^
+||mercadobrasileiro.store^
+||appwebseguro.com^
 ! Bradesco/Livelo
 ||portalseguros.com^
 ||programadepontoslive.myowndomain.name^
@@ -288,6 +291,7 @@
 ||lojavirtualamedigital.com^
 ||americanasemoferta.com^
 ||produtoexclusivos24hrs.com.bra^
+||aniversarioame.com^
 ! Serasa
 ||acordo-fevereiro.com^
 ||serasa-av.vercel.app^
