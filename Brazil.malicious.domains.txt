@@ -438,6 +438,7 @@
 ||voospromocionaisnamadrugada.com^
 ||voabembrasil.com^
 ||airlines-nacional-internacional-voos.com^
+||agenciavipltam.com^
 ! Tesla
 ||teslaoficial.co.in^
 ||tecnojornal.com^
