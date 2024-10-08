@@ -254,6 +254,7 @@
 ||viasite.one^
 ||viasite.biz^
 ||viasites.live^
+||seumundotech.com^
 ||filled-reminder-installations-demographic.trycloudflare.com^
 ||atendimentofamilia.org^
 ||viasite.xyz^
