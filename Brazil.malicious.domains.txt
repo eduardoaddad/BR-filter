@@ -295,6 +295,7 @@
 ||americanasemoferta.com^
 ||produtoexclusivos24hrs.com.bra^
 ||aniversarioame.com^
+||saldaonaamericanas.com^
 ! Serasa
 ||acordo-fevereiro.com^
 ||serasa-av.vercel.app^
