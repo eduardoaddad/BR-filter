@@ -253,8 +253,6 @@
 ||onvia.click^
 ||viasite.one^
 ||viasite.biz^
-||viasites.live^
-||seumundotech.com^
 ||filled-reminder-installations-demographic.trycloudflare.com^
 ||atendimentofamilia.org^
 ||viasite.xyz^
@@ -263,6 +261,9 @@
 ||consultoriafamiliadigital.com^
 ||atualizar.sbs^
 ||viabr.help^
+||viasites.live^
+||seumundotech.com^
+||auxgasregulanbx.com^
 ! Americanas
 ||cupom-especial-de-hoje.com^
 ||cupom-americanas.com^
