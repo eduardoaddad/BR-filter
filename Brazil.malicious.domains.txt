@@ -191,6 +191,7 @@
 ||appwebseguro.com^
 ||promonomercadoconfiraa.com^
 ||mlivrebr.com^
+||ultimosdescontos.store^
 ! Bradesco/Livelo
 ||portalseguros.com^
 ||programadepontoslive.myowndomain.name^
