@@ -1,7 +1,7 @@
 ! Title: BR-FILTER: Malicious websites
 ! Description: Filter that blocks fake websites that are used to carry out scams.
-! Version: 1.5.87
-! TimeUpdated: 10-08-2024:09:00+00:00
+! Version: 1.5.88
+! TimeUpdated: 10-09-2024:09:00+00:00
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/eduardoaddad/BR-filter
 
@@ -447,6 +447,7 @@
 ||voabembrasil.com^
 ||airlines-nacional-internacional-voos.com^
 ||agenciavipltam.com^
+||horadevooemais.com^
 ! Tesla
 ||teslaoficial.co.in^
 ||tecnojornal.com^
