@@ -1,7 +1,7 @@
 ! Title: BR-FILTER: Malicious websites
 ! Description: Filter that blocks fake websites that are used to carry out scams.
-! Version: 1.5.91
-! TimeUpdated: 10-19-2024:09:00+00:00
+! Version: 1.5.92
+! TimeUpdated: 11-17-2024:09:00+00:00
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/eduardoaddad/BR-filter
 
@@ -267,6 +267,7 @@
 ||viasites.live^
 ||seumundotech.com^
 ||auxgasregulanbx.com^
+||gas.caixa.spa^
 ! Americanas
 ||cupom-especial-de-hoje.com^
 ||cupom-americanas.com^
@@ -331,6 +332,7 @@
 ||xn--leiloreceitafederal-yvb.com^
 ||g1globoeconomiabr.com^
 ||informacaocomdestaque.com^
+||conexaoalma.com.br^
 ! Havan
 ||lojahavambrasil.com^
 ||lojaashavan.store^
@@ -450,6 +452,10 @@
 ||horadevooemais.com^
 ||destinosarcomvc.com^
 ||megaofertaltm.com.br^
+||latampasslatamairlines.com^
+||voeconosco.com^
+||voos.promo-latam-pass.com^
+||passagenonlinelatm.com^
 ! Tesla
 ||teslaoficial.co.in^
 ||tecnojornal.com^
@@ -608,6 +614,7 @@
 ||voeseguroazul.com^
 ||jogosesprtivos.net^
 ||voecomazul.com^
+||voosazul.com^
 ! Tupperware
 ||potes-tupper.store^
 ! McDonald's 
