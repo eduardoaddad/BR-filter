@@ -1,7 +1,7 @@
 ! Title: BR-FILTER: Malicious websites
 ! Description: Filter that blocks fake websites that are used to carry out scams.
-! Version: 1.5.98
-! TimeUpdated: 06-01-2025:09:00+00:00
+! Version: 1.5.99
+! TimeUpdated: 06-02-2025:09:00+00:00
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/eduardoaddad/BR-filter
 
@@ -516,6 +516,7 @@
 ||correios.pro-buscar.com^
 ||*.taxapendentebr.com.ua^
 ||correios.taxaobjetopedido.biz^
+||buscamanualbox.buscarrapidaoutros.co.ua^
 ! Mundial
 ||ofertamondial.com^
 ! Vasco Boutique
