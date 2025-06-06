@@ -1,7 +1,7 @@
 ! Title: BR-FILTER: Malicious websites
 ! Description: Filter that blocks fake websites that are used to carry out scams.
-! Version: 1.5.99
-! TimeUpdated: 06-02-2025:09:00+00:00
+! Version: 1.6.0
+! TimeUpdated: 06-06-2025:09:00+00:00
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/eduardoaddad/BR-filter
 
@@ -38,6 +38,7 @@
 ||agropecuaria.ws^
 ||navederesprotes.com^ 
 ||sites.google.com^
+||co.ua^
 ! Prime Video/Amazon
 ||pay.prime-oferta.com^
 ||erosionistovf.com^
