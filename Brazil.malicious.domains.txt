@@ -1,7 +1,7 @@
 ! Title: BR-FILTER: Malicious websites
 ! Description: Filter that blocks fake websites that are used to carry out scams.
-! Version: 1.6.0
-! TimeUpdated: 06-06-2025:09:00+00:00
+! Version: 1.6.1
+! TimeUpdated: 2025-06-12:09:00+00:00
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/eduardoaddad/BR-filter
 
@@ -85,6 +85,7 @@
 ||taxa-receita.org^
 ||portalreceita.org^
 ||leilaoreceita.netlify.app^
+||||regularize-darf.com^^
 ! Polishop
 ||promophones.org^
 ! Mercado LIvre
@@ -269,7 +270,6 @@
 ||seumundotech.com^
 ||auxgasregulanbx.com^
 ||gas.caixa.spa^
-||regularize-darf.com^
 ! Americanas
 ||cupom-especial-de-hoje.com^
 ||cupom-americanas.com^
@@ -518,6 +518,8 @@
 ||*.taxapendentebr.com.ua^
 ||correios.taxaobjetopedido.biz^
 ||buscamanualbox.buscarrapidaoutros.co.ua^
+||busca.acessorastreio.cfd^
+||buscarapida.buscarrapidadeboxs.kyiv.ua^
 ! Mundial
 ||ofertamondial.com^
 ! Vasco Boutique
