@@ -523,6 +523,8 @@
 ||correios.taxapendentebusca.com.ua^
 ||correios.buscar-logistica.com^
 ||correios.pro-buscar-logisticas.com^
+||correiosicms.com^
+||entrega.gay^
 ! Mundial
 ||ofertamondial.com^
 ! Vasco Boutique
