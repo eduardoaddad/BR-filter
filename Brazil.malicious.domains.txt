@@ -674,6 +674,8 @@
 ||eilikibrasil.netlify.app^
 ! Polícia
 ||visualizar-intimacao.com^
+! XP
+||riyanjingtrading.com^
 ! Liberados
 @@||unicred1538.assembleias.online^
 @@||*.notion.site^
