@@ -526,6 +526,7 @@
 ||correios.pro-buscar-logisticas.com^
 ||correiosicms.com^
 ||entrega.gay^
+||rapidabox.nowbuscarja.kyiv.ua^
 ! Mundial
 ||ofertamondial.com^
 ! Vasco Boutique
