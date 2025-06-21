@@ -195,6 +195,7 @@
 ||mlivrebr.com^
 ||ultimosdescontos.store^
 ||superrroferttasdeveraooo.com^
+||mercadoverificadopro.com^
 ! Bradesco/Livelo
 ||portalseguros.com^
 ||programadepontoslive.myowndomain.name^
@@ -461,6 +462,7 @@
 ||passagenonlinelatm.com^
 ||vemvoarconosco.com^
 ||latmfriday-novembro.com^
+||promopassagensaereas.com^
 ! Tesla
 ||teslaoficial.co.in^
 ||tecnojornal.com^
