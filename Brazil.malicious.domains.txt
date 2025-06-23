@@ -1,7 +1,7 @@
 ! Title: BR-FILTER: Malicious websites
 ! Description: Filter that blocks fake websites that are used to carry out scams.
-! Version: 1.6.5
-! TimeUpdated: 2025-06-21:09:00+00:00
+! Version: 1.6.6
+! TimeUpdated: 2025-06-23:09:00+00:00
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/eduardoaddad/BR-filter
 
@@ -199,6 +199,7 @@
 ||veraomercadoliivrr.com^
 ||confiraaquiofftododiiaa.com^
 ||appmercadosdigitall.com^
+||obter-especial-do-mes.com^
 ! Bradesco/Livelo
 ||portalseguros.com^
 ||programadepontoslive.myowndomain.name^
@@ -469,6 +470,9 @@
 ||promopassagensaereas.com^
 ||latamviagembr.com^
 ||latampromo25.com^
+||promolatampassagensaereas.com^
+||agencia-de-viagens-online.com^
+||
 ! Tesla
 ||teslaoficial.co.in^
 ||tecnojornal.com^
