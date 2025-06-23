@@ -198,6 +198,7 @@
 ||mercadoverificadopro.com^
 ||veraomercadoliivrr.com^
 ||confiraaquiofftododiiaa.com^
+||appmercadosdigitall.com^
 ! Bradesco/Livelo
 ||portalseguros.com^
 ||programadepontoslive.myowndomain.name^
@@ -467,6 +468,7 @@
 ||latmfriday-novembro.com^
 ||promopassagensaereas.com^
 ||latamviagembr.com^
+||latampromo25.com^
 ! Tesla
 ||teslaoficial.co.in^
 ||tecnojornal.com^
