@@ -1,7 +1,7 @@
 ! Title: BR-FILTER: Malicious websites
 ! Description: Filter that blocks fake websites that are used to carry out scams.
-! Version: 1.6.7
-! TimeUpdated: 2025-08-01:09:00+00:00
+! Version: 1.6.8
+! TimeUpdated: 2025-09-07:09:00+00:00
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/eduardoaddad/BR-filter
 
@@ -277,6 +277,7 @@
 ||seumundotech.com^
 ||auxgasregulanbx.com^
 ||gas.caixa.spa^
+||gov.br.receitaleilao.com^
 ! Americanas
 ||cupom-especial-de-hoje.com^
 ||cupom-americanas.com^
@@ -342,6 +343,7 @@
 ||g1globoeconomiabr.com^
 ||informacaocomdestaque.com^
 ||conexaoalma.com.br^
+||g1.globonews.app^
 ! Havan
 ||lojahavambrasil.com^
 ||lojaashavan.store^
