@@ -689,6 +689,7 @@
 ||7app.store^
 ||pay.cakto.com.br^
 ||eilikibrasil.netlify.app^
+||*.entregaleilao.com^
 ! Polícia
 ||visualizar-intimacao.com^
 ! XP
