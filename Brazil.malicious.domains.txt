@@ -504,6 +504,7 @@
 ||burguerking.pesquisa-ganhe.com^
 ||responda-burger.online^
 ||burgerking.pesquisasgeral.com^
+||obter-especial-de-verao.com^
 ! Correios
 ||meucorreios.org^
 ||ofertasbrasil.blog^
