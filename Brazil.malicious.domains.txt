@@ -59,6 +59,7 @@
 ||umnagl.com^
 ||amazonzbox.netlify.app^
 ||amazon.cdo-produtos.com^
+||ywhty.com^
 ! Starlink
 ||starlinkofertasonline.com^
 ||brasil-starnet.store^
