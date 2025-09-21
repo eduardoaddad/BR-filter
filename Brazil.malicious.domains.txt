@@ -202,6 +202,7 @@
 ||obter-especial-do-mes.com^
 ||appmercadodigital.com^
 ||obterofertascapeam.com^
+||vendaselectronicos.com^
 ! Bradesco/Livelo
 ||portalseguros.com^
 ||programadepontoslive.myowndomain.name^
