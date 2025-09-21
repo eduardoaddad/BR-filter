@@ -220,6 +220,7 @@
 ||app-merrcadodigital.com^
 ||smercadolivre.com^
 ||sitemercadolivre.com^
+||semanadeoofertasmercado.com^
 ! Bradesco/Livelo
 ||portalseguros.com^
 ||programadepontoslive.myowndomain.name^
