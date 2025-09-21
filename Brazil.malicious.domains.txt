@@ -546,6 +546,7 @@
 ||entrega.gay^
 ||*.kyiv.ua^
 ||*.biz.ua^
+||sniperleads.digital^
 ! Mundial
 ||ofertamondial.com^
 ! Vasco Boutique
