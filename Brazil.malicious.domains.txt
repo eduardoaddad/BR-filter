@@ -214,6 +214,7 @@
 ||apps-mercadodigital.com^
 ||app-precocampeaoml.com^
 ||ofertasohojemercado.com^
+||mercadooolivrrrcumpoo-app.com^
 ! Bradesco/Livelo
 ||portalseguros.com^
 ||programadepontoslive.myowndomain.name^
