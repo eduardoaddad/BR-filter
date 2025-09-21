@@ -211,6 +211,7 @@
 ||appmercadollivre.com^
 ||mercadolievre.com^
 ||mercadosdescontos.com^
+||apps-mercadodigital.com^
 ! Bradesco/Livelo
 ||portalseguros.com^
 ||programadepontoslive.myowndomain.name^
