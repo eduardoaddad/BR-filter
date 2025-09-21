@@ -477,6 +477,7 @@
 ||agencia-de-viagens-online.com^
 ||voosespeciaispromo.com^
 ||promotampassagem.com^
+||voehojepromocao.com^
 ! Tesla
 ||teslaoficial.co.in^
 ||tecnojornal.com^
