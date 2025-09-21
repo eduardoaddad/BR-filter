@@ -221,6 +221,7 @@
 ||smercadolivre.com^
 ||sitemercadolivre.com^
 ||semanadeoofertasmercado.com^
+||a-mercado-livre.com^
 ! Bradesco/Livelo
 ||portalseguros.com^
 ||programadepontoslive.myowndomain.name^
