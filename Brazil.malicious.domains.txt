@@ -209,6 +209,7 @@
 ||promoconfiraoffftododiia.com^
 ||appsmercadodigital.com^
 ||appmercadollivre.com^
+||mercadolievre.com^
 ! Bradesco/Livelo
 ||portalseguros.com^
 ||programadepontoslive.myowndomain.name^
