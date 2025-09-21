@@ -279,6 +279,7 @@
 ||auxgasregulanbx.com^
 ||gas.caixa.spa^
 ||gov.br.receitaleilao.com^
+||govbr.fiscalizandonline.com^
 ! Americanas
 ||cupom-especial-de-hoje.com^
 ||cupom-americanas.com^
