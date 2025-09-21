@@ -219,6 +219,7 @@
 ||mercadodeofertastododiia.com^
 ||app-merrcadodigital.com^
 ||smercadolivre.com^
+||sitemercadolivre.com^
 ! Bradesco/Livelo
 ||portalseguros.com^
 ||programadepontoslive.myowndomain.name^
