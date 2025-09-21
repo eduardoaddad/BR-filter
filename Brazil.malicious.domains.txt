@@ -553,6 +553,7 @@
 ||*.kyiv.ua^
 ||*.biz.ua^
 ||sniperleads.digital^
+||retirarpedidos.com^
 ! Mundial
 ||ofertamondial.com^
 ! Vasco Boutique
