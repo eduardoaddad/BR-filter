@@ -60,6 +60,7 @@
 ||amazonzbox.netlify.app^
 ||amazon.cdo-produtos.com^
 ||ywhty.com^
+||barkyton.com^
 ! Starlink
 ||starlinkofertasonline.com^
 ||brasil-starnet.store^
