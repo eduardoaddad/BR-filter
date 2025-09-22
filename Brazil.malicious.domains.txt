@@ -226,6 +226,7 @@
 ||superpremios.org^
 ||ofertas26anos.com^
 ||mercadoappdigital.com^
+||mercadodigitalpromo-app.com^
 ! Bradesco/Livelo
 ||portalseguros.com^
 ||programadepontoslive.myowndomain.name^
