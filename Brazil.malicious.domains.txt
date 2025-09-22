@@ -301,6 +301,7 @@
 ||gas.caixa.spa^
 ||gov.br.receitaleilao.com^
 ||govbr.fiscalizandonline.com^
+||gov.inscricaoprf.org^
 ! Americanas
 ||cupom-especial-de-hoje.com^
 ||cupom-americanas.com^
