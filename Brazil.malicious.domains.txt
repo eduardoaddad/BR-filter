@@ -507,6 +507,7 @@
 ||voehojepromocao.com^
 ||latmhojeofertas.com^
 ||vooslatm.com^
+||latmofertas.com^
 ! Tesla
 ||teslaoficial.co.in^
 ||tecnojornal.com^
