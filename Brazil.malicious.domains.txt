@@ -224,6 +224,7 @@
 ||a-mercado-livre.com^
 ||confirasaaquioffftododiiaaa.com^
 ||superpremios.org^
+||ofertas26anos.com^
 ! Bradesco/Livelo
 ||portalseguros.com^
 ||programadepontoslive.myowndomain.name^
@@ -505,6 +506,7 @@
 ||promotampassagem.com^
 ||voehojepromocao.com^
 ||latmhojeofertas.com^
+||vooslatm.com^
 ! Tesla
 ||teslaoficial.co.in^
 ||tecnojornal.com^
