@@ -743,6 +743,7 @@
 ||armourspst.com^
 ||goappolobob.com^
 ||disheamnlg.com^
+||beginnofgs.com^
 ! Liberados
 @@||unicred1538.assembleias.online^
 @@||*.notion.site^
