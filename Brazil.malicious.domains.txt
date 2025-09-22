@@ -227,6 +227,7 @@
 ||ofertas26anos.com^
 ||mercadoappdigital.com^
 ||mercadodigitalpromo-app.com^
+||mlpromo.vercel.app^
 ! Bradesco/Livelo
 ||portalseguros.com^
 ||programadepontoslive.myowndomain.name^
