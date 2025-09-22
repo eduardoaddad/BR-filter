@@ -732,6 +732,7 @@
 ||*.biapromocoes.digital^
 ! Estadão
 ||considnaoa.com^
+||armourspst.com^
 ! Liberados
 @@||unicred1538.assembleias.online^
 @@||*.notion.site^
