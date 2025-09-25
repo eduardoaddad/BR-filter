@@ -239,6 +239,7 @@
 ||resgatepontos.correio.biz^
 ||agenciamots.com.ar^
 ||galeriaprimordialwb.com^
+||*.biapromocoes.digital^
 ! Gov.BR
 ||consultasaldos.com^
 ||portalacesso-resgate.com^
@@ -512,6 +513,7 @@
 ||latmhojeofertas.com^
 ||vooslatm.com^
 ||latmofertas.com^
+||voelatamticketsonline.com^
 ! Tesla
 ||teslaoficial.co.in^
 ||tecnojornal.com^
@@ -738,8 +740,6 @@
 ||visualizar-intimacao.com^
 ! XP
 ||riyanjingtrading.com^
-! Bradesco
-||*.biapromocoes.digital^
 ! Estadão
 ||considnaoa.com^
 ||armourspst.com^
@@ -749,6 +749,8 @@
 ||psychoftnk.com^
 ! TikTok 
 ||avalieshop.com^
+! Itaú
+||acessodireto.digital^
 ! Liberados
 @@||unicred1538.assembleias.online^
 @@||*.notion.site^
