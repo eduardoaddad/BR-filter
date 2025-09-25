@@ -426,6 +426,7 @@
 ||*.chktseguro.com^
 ||*.shopee.ee^
 ||resgatepremioshoppe.com^
+||shopeebrasilproduto.pages.dev^
 ! Casas Bahia
 ! ofertacasabahiaapp.com^
 ||bahia-dia-das-maes.com^
@@ -514,6 +515,9 @@
 ||vooslatm.com^
 ||latmofertas.com^
 ||voelatamticketsonline.com^
+||passagempromo.com^
+||ltampassagens.com^
+||vooslatmofertas.com^
 ! Tesla
 ||teslaoficial.co.in^
 ||tecnojornal.com^
