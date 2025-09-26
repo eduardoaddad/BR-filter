@@ -230,6 +230,7 @@
 ||mercadodigitalpromo-app.com^
 ||mlpromo.vercel.app^
 ||ofertasdodiamercadobr.com^
+||mltempolimitado.com^
 ! Bradesco/Livelo
 ||portalseguros.com^
 ||programadepontoslive.myowndomain.name^
