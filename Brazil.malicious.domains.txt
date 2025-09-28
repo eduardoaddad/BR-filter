@@ -744,6 +744,7 @@
 ||pay.cakto.com.br^
 ||eilikibrasil.netlify.app^
 ||*.entregaleilao.com^
+||filehosting.is-certified.com^
 ! Polícia
 ||visualizar-intimacao.com^
 ! XP
