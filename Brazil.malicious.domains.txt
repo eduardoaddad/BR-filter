@@ -760,6 +760,8 @@
 ||avalieshop.com^
 ! Itaú
 ||acessodireto.digital^
+! Ricardo Elétrico
+||ricardoeletroqueima.com^
 ! Liberados
 @@||unicred1538.assembleias.online^
 @@||*.notion.site^
