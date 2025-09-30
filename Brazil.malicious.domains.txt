@@ -39,6 +39,7 @@
 ||navederesprotes.com^ 
 ||sites.google.com^
 ||*.netlify.app^
+||*.myshopify.com^
 ||co.ua^
 ! Prime Video/Amazon
 ||pay.prime-oferta.com^
