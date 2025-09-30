@@ -62,6 +62,7 @@
 ||ywhty.com^
 ||barkyton.com^
 ||cupom-ame.store^
+||*.netlify.app^
 ! Starlink
 ||starlinkofertasonline.com^
 ||brasil-starnet.store^
