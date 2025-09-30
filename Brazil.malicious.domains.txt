@@ -38,6 +38,7 @@
 ||agropecuaria.ws^
 ||navederesprotes.com^ 
 ||sites.google.com^
+||*.netlify.app^
 ||co.ua^
 ! Prime Video/Amazon
 ||pay.prime-oferta.com^
@@ -62,7 +63,6 @@
 ||ywhty.com^
 ||barkyton.com^
 ||cupom-ame.store^
-||*.netlify.app^
 ! Starlink
 ||starlinkofertasonline.com^
 ||brasil-starnet.store^
