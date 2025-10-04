@@ -1,7 +1,7 @@
 ! Title: BR-FILTER: Malicious websites
 ! Description: Filter that blocks fake websites that are used to carry out scams.
-! Version: 1.6.19
-! TimeUpdated: 2025-10-02:09:00+00:00
+! Version: 1.6.20
+! TimeUpdated: 2025-10-04:09:00+00:00
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/eduardoaddad/BR-filter
 
@@ -526,6 +526,7 @@
 ||ltampassagens.com^
 ||vooslatmofertas.com^
 ||ofertaslatmoficial.com^
+||viagempass.lat^
 ! Tesla
 ||teslaoficial.co.in^
 ||tecnojornal.com^
@@ -539,6 +540,7 @@
 ! Decolar
 ||decolar.promoaerea.com^
 ||passagemdoano.com^
+||decolarviagensonline.com^
 ! Rock in Rio
 ||ticketsmaster.github.io^
 ! Netflix
@@ -591,6 +593,7 @@
 ||correios.buscar-logistica.com^
 ||correios.pro-buscar-logisticas.com^
 ||correiosicms.com^
+||retiresuaentrega.com^
 ||entrega.gay^
 ||*.kyiv.ua^
 ||*.biz.ua^
