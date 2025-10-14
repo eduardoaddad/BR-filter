@@ -533,6 +533,7 @@
 ||ofertaslatmoficial.com^
 ||viagempass.lat^
 ||voosagencialtam.com^
+||linhasaereaslatam.com^
 ! Tesla
 ||teslaoficial.co.in^
 ||tecnojornal.com^
