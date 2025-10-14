@@ -42,6 +42,7 @@
 ||*.myshopify.com^
 ||co.ua^
 ||*.cfd^
+||*.sbs^
 ! Prime Video/Amazon
 ||pay.prime-oferta.com^
 ||erosionistovf.com^
