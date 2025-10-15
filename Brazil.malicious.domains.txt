@@ -1,7 +1,7 @@
 ! Title: BR-FILTER: Malicious websites
 ! Description: Filter that blocks fake websites that are used to carry out scams.
 ! Version: 1.6.24
-! TimeUpdated: 2025-10-14:09:00+00:00
+! TimeUpdated: 2025-10-15:09:00+00:00
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/eduardoaddad/BR-filter
 
@@ -727,6 +727,7 @@
 ||x-deccolxr.com^
 ||todasclasseson.com^
 ||deccxlxr.com^
+||hojeevoos.com^
 ! vakinha
 ||avante-brasil.it.com^
 ! Other 
