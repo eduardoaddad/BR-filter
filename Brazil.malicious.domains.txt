@@ -535,6 +535,7 @@
 ||viagempass.lat^
 ||voosagencialtam.com^
 ||linhasaereaslatam.com^
+||promovoeairlines.com^
 ! Tesla
 ||teslaoficial.co.in^
 ||tecnojornal.com^
