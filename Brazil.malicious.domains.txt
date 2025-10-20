@@ -244,6 +244,8 @@
 ||imercadolivre.com^
 ||mercadolivrbrasil.com^
 ||ecommercemercado.com^
+||sohojeblackfriday.com^
+||ofertas-mlbrasil.com^
 ! Bradesco/Livelo
 ||portalseguros.com^
 ||programadepontoslive.myowndomain.name^
@@ -554,6 +556,7 @@
 ||passagemdoano.com^
 ||decolarviagensonline.com^
 ||decolar-passagens-aereas.com.br^
+||decolardescontos.com^
 ! Rock in Rio
 ||ticketsmaster.github.io^
 ! Netflix
