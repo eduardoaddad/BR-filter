@@ -553,6 +553,7 @@
 ||decolar.promoaerea.com^
 ||passagemdoano.com^
 ||decolarviagensonline.com^
+||decolar-passagens-aereas.com.br^
 ! Rock in Rio
 ||ticketsmaster.github.io^
 ! Netflix
