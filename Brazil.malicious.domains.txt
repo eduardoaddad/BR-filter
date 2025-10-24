@@ -1,15 +1,15 @@
 ! Title: BR-FILTER: Malicious websites
 ! Description: Filter that blocks fake websites that are used to carry out scams.
-! Version: 1.6.28
-! TimeUpdated: 2025-10-21:09:00+00:00
+! Version: 1.6.29
+! TimeUpdated: 2025-10-23:09:00+00:00
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/eduardoaddad/BR-filter
 
 ! Frequently used for websites to apply scams in Brazil.
 ||*.shop^ 
-||*.online
+||*.online^$denyallow=mafia-main.2kweb.online|ds-green-master-prod.2kweb.online
 ||*.space^$denyallow=frisk.space
-||*.site^$denyallow=weirdgloop.notion.site
+||*.site^$denyallow=weirdgloop.notion.site|sunsetbe.my.canva.site|notion.site|bio.site
 ||*.top^ 
 ||*.website^$denyallow=loritta.website
 ||*.tech^ 
@@ -57,7 +57,6 @@
 ||promoamazon.com.br^
 ||primeday.click^
 ||lojaruedasoficial.com^
-||campanhafirestick.site^
 ||primevideo.digital^
 ||avalieganhe.com^
 ||umnagl.com^
@@ -799,10 +798,6 @@
 ||ricardoeletroqueima.com^
 ! Liberados
 @@||unicred1538.assembleias.online^
-@@||*.notion.site^
-@@||bio.site^
-@@||mafia-main.2kweb.online^
-@@||ds-green-master-prod.2kweb.online^
 @@||mafia.2k.com^
 @@||skylo.tech^
 @@||sunders.uber.space^
