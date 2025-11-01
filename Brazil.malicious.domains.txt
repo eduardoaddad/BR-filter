@@ -1,7 +1,7 @@
 ! Title: BR-FILTER: Malicious websites
 ! Description: Filter that blocks fake websites that are used to carry out scams.
-! Version: 1.6.32
-! TimeUpdated: 2025-10-29:09:00+00:00
+! Version: 1.6.33
+! TimeUpdated: 2025-10-31:09:00+00:00
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/eduardoaddad/BR-filter
 
@@ -247,6 +247,7 @@
 ||ofertas-mlbrasil.com^
 ||esquenta-black-ml.com^
 ||especialfimdeanoml.com^
+||lightgoldenrodyellow-ostrich-858008.hostingersite.com^
 ! Bradesco/Livelo
 ||portalseguros.com^
 ||programadepontoslive.myowndomain.name^
@@ -802,6 +803,8 @@
 ||bia-abrir.digital^
 ! Ricardo Elétrico
 ||ricardoeletroqueima.com^
+! Viva Sorte +
+||hoje-viva-oficiall.vercel.app^
 ! Liberados
 @@||unicred1538.assembleias.online^
 @@||mafia.2k.com^
