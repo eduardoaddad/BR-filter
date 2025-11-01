@@ -248,6 +248,8 @@
 ||esquenta-black-ml.com^
 ||especialfimdeanoml.com^
 ||lightgoldenrodyellow-ostrich-858008.hostingersite.com^
+||mercado-comprasbr.com^
+||brbrasilmercadoofertas.web.app^
 ! Bradesco/Livelo
 ||portalseguros.com^
 ||programadepontoslive.myowndomain.name^
@@ -550,6 +552,7 @@
 ||promomadrugada.com^
 ||voelatanpromo.com^
 ||ltamvooshoje.com^
+||hoje-voolatanpromo.com^
 ! Tesla
 ||teslaoficial.co.in^
 ||tecnojornal.com^
@@ -802,6 +805,7 @@
 ||wwwresgates.digital^
 ||bia-abrir.digital^
 ||portalcredonline.digital^
+||web-online.digital^
 ! Ricardo Elétrico
 ||ricardoeletroqueima.com^
 ! Viva Sorte +
