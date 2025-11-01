@@ -801,6 +801,7 @@
 ||novoacessoitau.com^
 ||wwwresgates.digital^
 ||bia-abrir.digital^
+||portalcredonline.digital^
 ! Ricardo Elétrico
 ||ricardoeletroqueima.com^
 ! Viva Sorte +
