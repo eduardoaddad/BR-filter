@@ -445,6 +445,10 @@
 ||99e9b3c7-06a0-4bf9-8722-6d02ea65b241.noten-online.com^
 ||b5400d07-53a1-4a49-8525-a80cc19e3a30.moonshinecabin.com^
 ||*.sultanchemists.com^
+||docs.postovaladaressilva.com^
+||v1.downsclientes.com^
+||two.retroativoefetivo.com^
+||000021125000.blob.core.windows.net^
 ! Rolex
 ||guia-oficial.com^
 ! Shoppe
