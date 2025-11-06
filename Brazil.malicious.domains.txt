@@ -253,6 +253,7 @@
 ||app-mercadocampeaol.com^
 ||verificado-ml.com^
 ||recebaem72h.com^
+||solividaon.s3.us-east-005.backblazeb2.com^
 ! Bradesco/Livelo
 ||portalseguros.com^
 ||programadepontoslive.myowndomain.name^
