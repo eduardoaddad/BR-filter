@@ -799,6 +799,7 @@
 ||eilikibrasil.netlify.app^
 ||*.entregaleilao.com^
 ||filehosting.is-certified.com^
+||chatilimitado.com^
 ! Polícia
 ||visualizar-intimacao.com^
 ! XP
