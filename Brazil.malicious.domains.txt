@@ -1,7 +1,7 @@
 ! Title: BR-FILTER: Malicious websites
 ! Description: Filter that blocks fake websites that are used to carry out scams.
-! Version: 1.6.37
-! TimeUpdated: 2025-11-07:09:00+00:00
+! Version: 1.6.38
+! TimeUpdated: 2025-11-10:09:00+00:00
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/eduardoaddad/BR-filter
 
@@ -830,6 +830,7 @@
 ||bilhete-do-dia.vercel.app^
 ! Sicred
 ||pontosemilhasx.com^
+||app.sicrediresgates.com^
 ! Liberados
 @@||unicred1538.assembleias.online^
 @@||mafia.2k.com^
