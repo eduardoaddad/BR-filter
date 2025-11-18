@@ -1,7 +1,7 @@
 ! Title: BR-FILTER: Malicious websites
 ! Description: Filter that blocks fake websites that are used to carry out scams.
-! Version: 1.6.39
-! TimeUpdated: 2025-11-16:09:00+00:00
+! Version: 1.6.40
+! TimeUpdated: 2025-11-17:09:00+00:00
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/eduardoaddad/BR-filter
 
@@ -257,6 +257,9 @@
 ||blackmercadofridaylivre.com^
 ||mercadocampeaolive.com^
 ||mercadolivre25anos.com^
+||marketplace-mercadolivre.com^
+||mercadolivreofertass.com^
+||excluisivosohoje.com^
 ! Bradesco/Livelo
 ||portalseguros.com^
 ||programadepontoslive.myowndomain.name^
@@ -435,6 +438,8 @@
 ||liquidacao-da-magazine.com^
 ||superofertaaprecarnaval.com^
 ||ludomagaluofertas.com^
+||xn--magazne-cza.com^
+||magazíne.com^
 ! Pagamentos
 ||loja-1-5.finalizarcompra.com^
 ||pay.izzahome.com^
@@ -830,6 +835,7 @@
 ||hoje-viva-oficiall.vercel.app^
 ||bilhete-feliz-2025.vercel.app^
 ||bilhete-do-dia.vercel.app^
+||bilhete-facil-lilac.vercel.app^
 ! Sicred
 ||pontosemilhasx.com^
 ||app.sicrediresgates.com^
