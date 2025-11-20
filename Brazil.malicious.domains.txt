@@ -578,6 +578,7 @@
 ||latamairllines.com^
 ||comprepassagenstam.com^
 ||blackltamnovembro.com^
+||ltamdesprompass.com^
 ! Tesla
 ||teslaoficial.co.in^
 ||tecnojornal.com^
