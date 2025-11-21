@@ -264,6 +264,7 @@
 ||mercadolivreofertadenatal.com^
 ||mercadolivreblackoferta^
 ||go.goatpayments.com.br^
+||mercadolivre-blackoferta.com^
 ! Bradesco/Livelo
 ||portalseguros.com^
 ||programadepontoslive.myowndomain.name^
