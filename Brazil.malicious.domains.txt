@@ -266,6 +266,10 @@
 ||go.goatpayments.com.br^
 ||mercadolivre-blackoferta.com^
 ||esquentablackml.com^
+||blackfridaypneus.com^
+||pay.blackfridaypneus.com^
+||especialfimdeanomlv.com^
+||mercadolivre-blackofertas.com^
 ! Bradesco/Livelo
 ||portalseguros.com^
 ||programadepontoslive.myowndomain.name^
