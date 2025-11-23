@@ -399,6 +399,7 @@
 ||paynew-pag.com^
 ||indenizaonline.com^
 ||seugov.pro^
+||protocolo-feirao.vercel.app^
 ! Globo
 ||gnoticia.com^
 ||portalnoticiasbrasileiras.com^
