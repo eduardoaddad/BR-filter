@@ -353,6 +353,7 @@
 ||govbr.fiscalizandonline.com^
 ||gov.inscricaoprf.org^
 ||atendimento-detran.lhscredbens.com.br^
+||gov.cnhssocial.org ^
 ! Americanas
 ||cupom-especial-de-hoje.com^
 ||cupom-americanas.com^
@@ -856,6 +857,8 @@
 ! Sicred
 ||pontosemilhasx.com^
 ||app.sicrediresgates.com^
+! Skypostal
+||tracking.skypostal.com^
 ! Liberados
 @@||unicred1538.assembleias.online^
 @@||mafia.2k.com^
