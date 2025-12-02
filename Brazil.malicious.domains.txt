@@ -43,6 +43,7 @@
 ||co.ua^
 ||*.cfd^
 ||*.sbs^
+||*.vercel.app^
 ! Prime Video/Amazon
 ||pay.prime-oferta.com^
 ||erosionistovf.com^
@@ -52,7 +53,6 @@
 ||prime-plan.com^
 ||prime-alexa.com^
 ||aprime.store^
-||ofertaprime.vercel.app^
 ||planoprime.click^
 ||promoamazon.com.br^
 ||primeday.click^
@@ -101,7 +101,6 @@
 ||mercadodealsonline.com^
 ||promolivremerc.com^
 ||mlivredescontossemanal.com^
-||ofertamlshop.vercel.app^
 ||ofertasmlivreshop.com.br^
 ||appmercadolivr.com^
 ||fecino.cloud^
@@ -164,12 +163,10 @@
 ||portalnoticias.org^
 ||atendimento-br.cloud^
 ||desconto-25anos-mercadolivr.store^
-||25anos-mercadolivre.vercel.app^
 ||mercadooliivre.com.br^
 ||mercadolive.live^
 ||oferta-premiada.store^
 ||compremais-mercadolivrre.com^
-||respondaeganhemercado25anos.vercel.app^
 ||oficial.quiz-digitial.com^
 ||ofertas-ml.store^
 ||typebot.com^
@@ -232,7 +229,6 @@
 ||ofertas26anos.com^
 ||mercadoappdigital.com^
 ||mercadodigitalpromo-app.com^
-||mlpromo.vercel.app^
 ||ofertasdodiamercadobr.com^
 ||mltempolimitado.com^
 ||mmercado-livre.com^
@@ -294,7 +290,6 @@
 ||voabrasilgov.com^
 ||voabrasilgov.netlify.app^
 ||emaisservicos.com^
-||oficial-voabrasil-gov.vercel.app^
 ||tutorial-social.com^
 ||verificar-direitos.com^
 ||auxiliogas.info^
@@ -391,7 +386,6 @@
 ||produtoexclusivos24hrs.com.br^
 ! Serasa
 ||acordo-fevereiro.com^
-||serasa-av.vercel.app^
 ||indenizeme.com^
 ||recuperafacil.org^
 ||indeniza.net^
@@ -403,7 +397,6 @@
 ||paynew-pag.com^
 ||indenizaonline.com^
 ||seugov.pro^
-||protocolo-feirao.vercel.app^
 ! Globo
 ||gnoticia.com^
 ||portalnoticiasbrasileiras.com^
@@ -412,7 +405,6 @@
 ||*.petssellers.com^
 ||*.sportsexplosives.com^
 ||g1.globoo.info^
-||noticiasonline.vercel.app^
 ||globonoticias.info^
 ||g1noticiasdodia.com^
 ||g1.globoeconomia.com^
@@ -432,10 +424,9 @@
 ||web-site-oficial.net^
 ||site-seguro.responda-o-quiz-2024.com^
 ||ofertas-oficiais.co^
-||tramontinadopovo.pay.yampi.com.br%
+||tramontinadopovo.pay.yampi.com.br^
 ||havanresgate.com^
 ||responde-e-ganhe.xyz^
-||promocoeshv.vercel.app^
 ||lucianoperguntas.com^
 ||respondaluciano.com^
 ||perguntasresponda.com^
@@ -852,11 +843,6 @@
 ||web-online.digital^
 ! Ricardo Elétrico
 ||ricardoeletroqueima.com^
-! Viva Sorte +
-||hoje-viva-oficiall.vercel.app^
-||bilhete-feliz-2025.vercel.app^
-||bilhete-do-dia.vercel.app^
-||bilhete-facil-lilac.vercel.app^
 ! Sicred
 ||pontosemilhasx.com^
 ||app.sicrediresgates.com^
