@@ -1,7 +1,7 @@
 ! Title: BR-FILTER: Malicious websites
 ! Description: Filter that blocks fake websites that are used to carry out scams.
-! Version: 1.6.49
-! TimeUpdated: 2025-12-01:09:00+00:00
+! Version: 1.6.50
+! TimeUpdated: 2025-12-02:09:00+00:00
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/eduardoaddad/BR-filter
 
@@ -270,6 +270,7 @@
 ||mercadolivre-oficial.com^
 ||mercadinhoappmlivre.com^
 ||ofertas-mercadolivre.com^
+||mercadoliure.click^
 ! Bradesco/Livelo
 ||portalseguros.com^
 ||programadepontoslive.myowndomain.name^
@@ -397,6 +398,8 @@
 ||paynew-pag.com^
 ||indenizaonline.com^
 ||seugov.pro^
+||soenvido.com^
+||consultarapida.digital^
 ! Globo
 ||gnoticia.com^
 ||portalnoticiasbrasileiras.com^
