@@ -279,6 +279,9 @@
 ||mlmercadoveliivre.com^
 ||loja-ml.com^
 ||appmercadofimdeano.com^
+||patrocinados-ml.com^
+||app-merrcadodigiital.com^
+||mlverificado.com^
 ! Bradesco/Livelo
 ||portalseguros.com^
 ||programadepontoslive.myowndomain.name^
@@ -409,6 +412,7 @@
 ||seugov.pro^
 ||soenvido.com^
 ||consultarapida.digital^
+||limpa.acesso-direto.org^
 ! Globo
 ||gnoticia.com^
 ||portalnoticiasbrasileiras.com^
