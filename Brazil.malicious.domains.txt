@@ -1,7 +1,7 @@
 ! Title: BR-FILTER: Malicious websites
 ! Description: Filter that blocks fake websites that are used to carry out scams.
-! Version: 1.6.56
-! TimeUpdated: 2025-12-20:10:00+00:00
+! Version: 1.6.57
+! TimeUpdated: 2025-12-21:10:00+00:00
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/eduardoaddad/BR-filter
 
@@ -376,6 +376,7 @@
 ||gov.inscricaoprf.org^
 ||atendimento-detran.lhscredbens.com.br^
 ||gov.cnhssocial.org ^
+||liberarlicenca.com^
 ! Americanas
 ||cupom-especial-de-hoje.com^
 ||cupom-americanas.com^
@@ -428,6 +429,8 @@
 ||feiraodeacordos.lat^
 ||limpanome-serasa.vakiinhasegura.com^
 ||limpanome.portallesperanca.org^
+||limpanome.limaseunomeagora.org^
+||limpa-nome.sitelojaagora.org^
 ! Globo
 ||gnoticia.com^
 ||portalnoticiasbrasileiras.com^
@@ -636,6 +639,7 @@
 ||decolardescontos.com^
 ||agencia-decolar.com^
 ||appsitedecolarviagens.com^
+||sitedecolarviagens.com^
 ! Rock in Rio
 ||ticketsmaster.github.io^
 ! Netflix
@@ -874,6 +878,7 @@
 ||bia-abrir.digital^
 ||portalcredonline.digital^
 ||web-online.digital^
+||portaldocred.digital^
 ! Ricardo Elétrico
 ||ricardoeletroqueima.com^
 ! Sicred
