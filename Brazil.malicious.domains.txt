@@ -295,6 +295,9 @@
 ||mercadoliuvreweb.com^
 ||patrocinadosml.com^
 ||mercadolivrenatal-oferta.com^
+||mercadolivrenataldeofertas.com^
+||mercadolivreofertasnatal.com^
+||app-seguroprromododiaa.com^
 ! Bradesco/Livelo
 ||portalseguros.com^
 ||programadepontoslive.myowndomain.name^
@@ -433,6 +436,7 @@
 ||limpanome.limaseunomeagora.org^
 ||limpa-nome.sitelojaagora.org^
 ||acordoencontrado.lat^
+||fluxo-atendimento.replit.app^
 ! Globo
 ||gnoticia.com^
 ||portalnoticiasbrasileiras.com^
