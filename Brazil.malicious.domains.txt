@@ -305,6 +305,7 @@
 ||mercado-livre-app2026.com^
 ||app-confiraaquiofftododiiaa.com^
 ||mercadolivecompras.com^
+||sites-segurobrbrasil.com^
 ! Bradesco/Livelo
 ||portalseguros.com^
 ||programadepontoslive.myowndomain.name^
