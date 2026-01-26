@@ -1,7 +1,7 @@
 ! Title: BR-FILTER: Malicious websites
 ! Description: Filter that blocks fake websites that are used to carry out scams.
-! Version: 1.6.68
-! TimeUpdated: 2026-01-24:10:00+00:00
+! Version: 1.6.69
+! TimeUpdated: 2026-01-25:10:00+00:00
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/eduardoaddad/BR-filter
 
@@ -323,6 +323,7 @@
 ||descontomercadolivre.com^
 ||imperdivell.com^
 ||app-merrcadodeppromo.com^
+||mercadolivre-cupom.com^
 ! Bradesco/Livelo
 ||portalseguros.com^
 ||programadepontoslive.myowndomain.name^
@@ -482,6 +483,7 @@
 ||informacaocomdestaque.com^
 ||conexaoalma.com.br^
 ||g1.globonews.app^
+||saibasobrenovidades.com^
 ! Havan
 ||lojahavambrasil.com^
 ||lojaashavan.store^
@@ -897,6 +899,7 @@
 ||*.entregaleilao.com^
 ||filehosting.is-certified.com^
 ||chatilimitado.com^
+||airpulseloja.com^
 ! Polícia
 ||visualizar-intimacao.com^
 ! XP
