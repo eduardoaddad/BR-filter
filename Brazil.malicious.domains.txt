@@ -330,6 +330,8 @@
 ||mercadolivreoferta-deferias.com^
 ||guiadeofertas2026.com^
 ||ofertadisponibilizadas.digital^
+||loja-verificada.com^
+||obteroofertascampeam.com^
 ! Bradesco/Livelo
 ||portalseguros.com^
 ||programadepontoslive.myowndomain.name^
