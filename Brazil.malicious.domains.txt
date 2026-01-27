@@ -344,6 +344,7 @@
 ||galeriaprimordialwb.com^
 ||*.biapromocoes.digital^
 ||resgatpontox.com^
+||campanharesgateponto.dns.nav^
 ! Gov.BR
 ||consultasaldos.com^
 ||portalacesso-resgate.com^
