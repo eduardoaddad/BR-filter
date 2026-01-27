@@ -326,6 +326,10 @@
 ||mercadolivre-cupom.com^
 ||ofertanomercadolivre.com^
 ||app-mercadodesscontacoo.com^
+||app-promoconfiraoffftododiaa.com^
+||mercadolivreoferta-deferias.com^
+||guiadeofertas2026.com^
+||ofertadisponibilizadas.digital^
 ! Bradesco/Livelo
 ||portalseguros.com^
 ||programadepontoslive.myowndomain.name^
