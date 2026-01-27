@@ -414,7 +414,8 @@
 ||govbr.fiscalizandonline.com^
 ||gov.inscricaoprf.org^
 ||atendimento-detran.lhscredbens.com.br^
-||gov.cnhssocial.org ^
+||gov.cnhssocial.org^
+||nacionalmei.com.br^
 ||liberarlicenca.com^
 ! Americanas
 ||cupom-especial-de-hoje.com^
