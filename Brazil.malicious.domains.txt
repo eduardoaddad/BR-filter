@@ -1,7 +1,7 @@
 ! Title: BR-FILTER: Malicious websites
 ! Description: Filter that blocks fake websites that are used to carry out scams.
-! Version: 1.6.74
-! TimeUpdated: 2026-02-12:10:00+00:00
+! Version: 1.6.75
+! TimeUpdated: 2026-02-15:10:00+00:00
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/eduardoaddad/BR-filter
 
@@ -347,6 +347,10 @@
 ||patrocinado-ml.com^
 ||produtocomdesconto.net^
 ||promoconffiraofftododiia.com^
+||app-confiiraaquioffttododiiaaa.com^
+||ofertasdodiamercadolivre.com^
+||compra-com-desconto.com^
+||mercado-pago-achadinhos-do-dia.com^
 ! Bradesco/Livelo
 ||portalseguros.com^
 ||programadepontoslive.myowndomain.name^
@@ -587,6 +591,7 @@
 ||queimadeestoquebahia.com^
 ||prime-casasbahia.com^
 ||blakcfridaycasasbahia.com^
+||casasbahiaonline.com^
 ! Brooksfield
 ||brooksfiielld.myshopify.com^
 ||brooksfieldshopingg.myshopify.com^
@@ -685,6 +690,9 @@
 ||megapromolatam.com.br^
 ||latamdescontos.com^
 ||latamofertasonline.com^
+||la-tam-pacotescomdesconto.com^
+||prom-voos-decolar.com^
+||iatampassagens.com^
 ! Tesla
 ||teslaoficial.co.in^
 ||tecnojornal.com^
