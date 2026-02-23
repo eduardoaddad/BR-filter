@@ -569,6 +569,7 @@
 ||two.retroativoefetivo.com^
 ||000021125000.blob.core.windows.net^
 ||aspx.cavarsan.com^
+||*.vmxconstrutora.com^
 ! Rolex
 ||guia-oficial.com^
 ! Shoppe
