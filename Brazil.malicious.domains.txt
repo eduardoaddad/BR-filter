@@ -1,7 +1,7 @@
 ! Title: BR-FILTER: Malicious websites
 ! Description: Filter that blocks fake websites that are used to carry out scams.
-! Version: 1.6.77
-! TimeUpdated: 2026-02-28:10:00+00:00
+! Version: 1.6.78
+! TimeUpdated: 2026-03-05:10:00+00:00
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/eduardoaddad/BR-filter
 
@@ -356,6 +356,7 @@
 ||achados-verificados.com^
 ||mercadodescontos.com^
 ||excluisivosomtehoje.com^
+||mercadolivrecupom50.com^
 ! Bradesco/Livelo
 ||portalseguros.com^
 ||programadepontoslive.myowndomain.name^
@@ -723,6 +724,7 @@
 ||ofertasdecolar.com.br^
 ||destinos-nacionais.com^
 ||promo-decolar-passagens.com^
+||promodecolarofertas.com^
 ! Rock in Rio
 ||ticketsmaster.github.io^
 ! Netflix
