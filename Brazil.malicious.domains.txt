@@ -576,6 +576,10 @@
 ||000021125000.blob.core.windows.net^
 ||aspx.cavarsan.com^
 ||*.vmxconstrutora.com^
+||*.urpose.com^
+||national-program-protect-device.autos^
+||trk.smell-rocket-chair-garage.run^
+||prebanmenpal.tidevia.boats^
 ! Rolex
 ||guia-oficial.com^
 ! Shoppe
