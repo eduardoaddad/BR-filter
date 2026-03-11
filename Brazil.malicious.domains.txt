@@ -442,6 +442,9 @@
 ||gov.cnhssocial.org^
 ||nacionalmei.com.br^
 ||liberarlicenca.com^
+||demo.crnt.com.br^
+||admin.scaleup.com.br^
+||maven.sdd.com.ar^
 ! Americanas
 ||cupom-especial-de-hoje.com^
 ||cupom-americanas.com^
