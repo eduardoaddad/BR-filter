@@ -1,7 +1,7 @@
 ! Title: BR-FILTER: Malicious websites
 ! Description: Filter that blocks fake websites that are used to carry out scams.
-! Version: 1.6.82
-! TimeUpdated: 2026-03-13:10:00+00:00
+! Version: 1.6.83
+! TimeUpdated: 2026-03-18:10:00+00:00
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/eduardoaddad/BR-filter
 
@@ -358,6 +358,10 @@
 ||excluisivosomtehoje.com^
 ||mercadolivrecupom50.com^
 ||*.marktplacepagos.com^
+||preofertadepascoa.com^
+||aproveitee.com^
+||ofertadodia-cupom.com.br^
+||compragarantida-cupom.com^
 ! Bradesco/Livelo
 ||portalseguros.com^
 ||programadepontoslive.myowndomain.name^
@@ -371,6 +375,7 @@
 ||*.biapromocoes.digital^
 ||resgatpontox.com^
 ||campanharesgateponto.dns.nav^
+||app.relacionamento.click^
 ! Gov.BR
 ||consultasaldos.com^
 ||portalacesso-resgate.com^
@@ -710,6 +715,8 @@
 ||prom-voos-decolar.com^
 ||iatampassagens.com^
 ||voebaratoseguro.com^
+||passlatm.com^
+||teste.comecial.com^
 ! Tesla
 ||teslaoficial.co.in^
 ||tecnojornal.com^
