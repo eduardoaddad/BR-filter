@@ -591,6 +591,7 @@
 ||national-program-protect-device.autos^
 ||trk.smell-rocket-chair-garage.run^
 ||prebanmenpal.tidevia.boats^
+||*.luvios.net^
 ! Rolex
 ||guia-oficial.com^
 ! Shoppe
