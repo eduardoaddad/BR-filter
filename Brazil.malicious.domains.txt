@@ -1,7 +1,7 @@
 ! Title: BR-FILTER: Malicious websites
 ! Description: Filter that blocks fake websites that are used to carry out scams.
-! Version: 1.6.84
-! TimeUpdated: 2026-03-20:10:00+00:00
+! Version: 1.6.85
+! TimeUpdated: 2026-03-26:10:00+00:00
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/eduardoaddad/BR-filter
 
@@ -362,6 +362,9 @@
 ||aproveitee.com^
 ||ofertadodia-cupom.com.br^
 ||compragarantida-cupom.com^
+||marktplacepagos.com^
+||app-mercadlivrsegurml.com^
+||aproveitexclusivo.com^
 ! Bradesco/Livelo
 ||portalseguros.com^
 ||programadepontoslive.myowndomain.name^
@@ -998,6 +1001,8 @@
 ||app.sicrediresgates.com^
 ! Skypostal
 ||tracking.skypostal.com^
+! Zimbra
+||ipfs.io^
 ! Liberados
 @@||unicred1538.assembleias.online^
 @@||mafia.2k.com^
