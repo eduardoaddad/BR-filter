@@ -44,6 +44,7 @@
 ||*.cfd^
 ||*.sbs^
 ||*.vercel.app^
+||*.surexbox9.com^
 ! Prime Video/Amazon
 ||pay.prime-oferta.com^
 ||erosionistovf.com^
