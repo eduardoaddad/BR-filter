@@ -1010,6 +1010,8 @@
 ! Skypostal
 ||tracking.skypostal.com^
 ! Zimbra
+! Pedagios
+||pedagiodigital-consulta.com^
 ||ipfs.io^
 ! Liberados
 @@||unicred1538.assembleias.online^
