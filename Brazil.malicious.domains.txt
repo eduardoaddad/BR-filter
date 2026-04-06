@@ -374,6 +374,8 @@
 ||exclusividadedodiapravoce.com^
 ||ipv4cumpaym.com^
 ||mercadolivre-saldao-do-mes.com^
+||mercadolivre-cupomunico.com^
+||www1.mesdoconsumidorimperdivel.com^
 ! Bradesco/Livelo
 ||portalseguros.com^
 ||programadepontoslive.myowndomain.name^
