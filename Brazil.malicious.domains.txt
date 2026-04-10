@@ -1,7 +1,7 @@
 ! Title: BR-FILTER: Malicious websites
 ! Description: Filter that blocks fake websites that are used to carry out scams.
-! Version: 1.6.89
-! TimeUpdated: 2026-04-05:10:00+00:00
+! Version: 1.6.90
+! TimeUpdated: 2026-04-09:10:00+00:00
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/eduardoaddad/BR-filter
 
@@ -377,6 +377,9 @@
 ||mercadolivre-cupomunico.com^
 ||www1.mesdoconsumidorimperdivel.com^
 ||app-promootodooconfiraadiaaml.com^
+||lojistaprodutoloja.com^
+||confiraasofertastudooff.com^
+||entrega-full.com^
 ! Bradesco/Livelo
 ||portalseguros.com^
 ||programadepontoslive.myowndomain.name^
@@ -394,6 +397,7 @@
 ||app.relacionamento.info^
 ||app.ajudacompontos.pro^
 ||biasprogramasdeponto.uk^
+||app-resgatepontos.info^
 ! Gov.BR
 ||consultasaldos.com^
 ||portalacesso-resgate.com^
