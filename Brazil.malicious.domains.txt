@@ -1038,4 +1038,5 @@
 @@||skylo.tech^
 @@||sunders.uber.space^
 @@||mobile.c6bank.app^
-@@||shop.astropad.com
+@@||shop.astropad.com^
+@@||*.zorin.com^
