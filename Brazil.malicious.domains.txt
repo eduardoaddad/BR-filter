@@ -388,6 +388,8 @@
 ||b4-mercadolivre-cupom.com^
 ||appsemanadeofferstododia.com^
 ||entregafull.com^
+||mercadolivre-cupomdeabril-promocao.store^
+||mercadopedidos.store^
 ! Bradesco/Livelo
 ||portalseguros.com^
 ||programadepontoslive.myowndomain.name^
