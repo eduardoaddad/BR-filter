@@ -1,7 +1,7 @@
 ! Title: BR-FILTER: Malicious websites
 ! Description: Filter that blocks fake websites that are used to carry out scams.
-! Version: 1.6.93
-! TimeUpdated: 2026-04-09:20:00+00:00
+! Version: 1.6.94
+! TimeUpdated: 2026-04-09:21:00+00:00
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/eduardoaddad/BR-filter
 
@@ -387,6 +387,7 @@
 ||entrega-full-exclusiva.com^
 ||b4-mercadolivre-cupom.com^
 ||appsemanadeofferstododia.com^
+||entregafull.com^
 ! Bradesco/Livelo
 ||portalseguros.com^
 ||programadepontoslive.myowndomain.name^
@@ -481,6 +482,8 @@
 ||admin.scaleup.com.br^
 ||maven.sdd.com.ar^
 ||centraldorecurso.com^
+||consulteoficialbr.com^
+||hojeconsult.com^
 ! Americanas
 ||cupom-especial-de-hoje.com^
 ||cupom-americanas.com^
@@ -514,6 +517,7 @@
 ||aniversarioame.com^
 ||saldaonaamericanas.com^
 ||produtoexclusivos24hrs.com.br^
+||lojasliquida.com^
 ! Serasa
 ||acordo-fevereiro.com^
 ||indenizeme.com^
