@@ -7,9 +7,9 @@
 
 ! Frequently used for websites to apply scams in Brazil.
 ||*.shop^ 
-||*.online^$denyallow=mafia-main.2kweb.online|ds-green-master-prod.2kweb.online
+||*.online^$denyallow=mafia-main.2kweb.online|ds-green-master-prod.2kweb.online|*.assembleias.online
 ||*.space^$denyallow=frisk.space|metahub.space
-||*.site^$denyallow=weirdgloop.notion.site|sunsetbe.my.canva.site|notion.site|bio.site
+||*.site^$denyallow=*.notion.site|sunsetbe.my.canva.site|notion.site|bio.site
 ||*.top^ 
 ||*.website^$denyallow=loritta.website
 ||*.tech^ 
@@ -1033,11 +1033,10 @@
 ||pedagiodigital-consulta.com^
 ||ipfs.io^
 ! Liberados
-@@||unicred1538.assembleias.online^
 @@||mafia.2k.com^
 @@||skylo.tech^
 @@||sunders.uber.space^
 @@||mobile.c6bank.app^
 @@||shop.astropad.com^
 @@||*.zorin.com^
-@@docs.astro.build^
+@@||docs.astro.build^
