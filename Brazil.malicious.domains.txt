@@ -17,7 +17,6 @@
 ||run.app^ 
 ||in.ua^ 
 ||lojas-oficiaiis.com^
-||536803-0c.myshopify.com^
 ||ofertasinfoprodutos.com^
 ||ofertasiimperdiveis.com^
 ||ofertasegura.xyz^
@@ -61,7 +60,6 @@
 ||primevideo.digital^
 ||avalieganhe.com^
 ||umnagl.com^
-||amazonzbox.netlify.app^
 ||amazon.cdo-produtos.com^
 ||ywhty.com^
 ||barkyton.com^
@@ -91,8 +89,7 @@
 ||taxa-tributaria.org^
 ||taxa-receita.org^
 ||portalreceita.org^
-||leilaoreceita.netlify.app^
-||||regularize-darf.com^^
+||regularize-darf.com^^
 ! Polishop
 ||promophones.org^
 ! Mercado LIvre
@@ -106,11 +103,8 @@
 ||appmercadolivr.com^
 ||fecino.cloud^
 ||elite8188.atomicatpages.com^
-||ab8fb0-06.myshopify.com^
-||mercadolivre-aniversario.myshopify.com^
 ||consulta-rapida.me^
 ||ev.universidademarketplaces.com.br^
-||quizdoconsumidor.netlify.app^
 ||mlivredescontao.com^
 ||mercadolivre-aniversario-promo.myshopify.com^
 ||mercadolivre-promo.info^
@@ -120,7 +114,6 @@
 ||resgateofertasoficial.com^
 ||shopmercado.store^
 ||mercadolivre-brasil.store^
-||quizconsumidorml.netlify.app^
 ||mercado-livreofertass.com^
 ||mercados-livrebr.com^
 ||shop.fraga-ofertas.com^
@@ -129,7 +122,6 @@
 ||mercaadolivrre.com^
 ||quiz-2024ml.com^
 ||quiz-do-mercadolivre.store^
-||mercadoevento.com^
 ||economialivre.com.br^
 ||samsung-25-anos-ml.myshopify.com^
 ||mercadoshopmax.com^
@@ -342,7 +334,6 @@
 ||app-mercadoliivreiml.com^
 ||promoconffiratododiia.com^
 ||destaquesimperdiveis.com^
-||appmercadolivrebr.com^
 ||ofertasmmercadolivree.com^
 ||appmercadolivrebr.com^
 ||patrocinado-ml.com^
@@ -418,7 +409,6 @@
 ||indenizarapido.com^
 ||favicredi.com^
 ||voabrasilgov.com^
-||voabrasilgov.netlify.app^
 ||emaisservicos.com^
 ||tutorial-social.com^
 ||verificar-direitos.com^
@@ -666,7 +656,7 @@
 ! Latam
 ||promo-latam2024.com^
 ||latamlinhasaerea.com^
-||https://voejalatam.com^
+||voejalatam.com^
 ||voospromocionaiis.com^
 ||airlines-brasil.com^
 ||voosemoffertas.com^
@@ -813,8 +803,6 @@
 ||meucorreios.org^
 ||ofertasbrasil.blog^
 ||statuspedido.com^
-||rastreio-encomenda.netlify.app^
-||status-encomenda-correios.netlify.app^
 ||app.correio.services^
 ||informativoscorreios.com^
 ||pedidoverificado.pro^
@@ -857,7 +845,7 @@
 ! Mundial
 ||ofertamondial.com^
 ! Vasco Boutique
-||https://vascostorefc.com^
+||vascostorefc.com^
 ! Lacoste
 ||ultimodiaofertalala.store^
 ||lacoste.outlett.pro^
@@ -941,7 +929,6 @@
 ! UOL
 ||diario-noticias.com^
 ! Ifood 
-||promocao-ifoodcard.netlify.app^ 
 ! Banco Central 
 ||resgate.direitodocidadao.org^
 ||resgatar.acessarsite.life^
@@ -1008,7 +995,6 @@
 ||aliancaatacadistas1.mycartpanda.com^
 ||7app.store^
 ||pay.cakto.com.br^
-||eilikibrasil.netlify.app^
 ||*.entregaleilao.com^
 ||filehosting.is-certified.com^
 ||chatilimitado.com^
