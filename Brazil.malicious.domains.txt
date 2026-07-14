@@ -37,8 +37,6 @@
 ||agropecuaria.ws^
 ||navederesprotes.com^ 
 ||sites.google.com^
-||*.netlify.app^
-||*.myshopify.com^
 ||co.ua^
 ||*.cfd^
 ||*.sbs^
