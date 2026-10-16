@@ -14,7 +14,7 @@
 ||*.website^$denyallow=loritta.website
 ||*.tech^ 
 ||*.fun^ 
-||run.app^ 
+||run.app^$denyallow=antigravity-ide-auto-updater-974169037036.us-central1.run.app
 ||in.ua^ 
 ||lojas-oficiaiis.com^
 ||ofertasinfoprodutos.com^
